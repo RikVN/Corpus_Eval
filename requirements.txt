@@ -1,0 +1,7 @@
+tabulate
+scikit-learn
+matplotlib
+datasets
+zstandard
+transliterate
+prevert

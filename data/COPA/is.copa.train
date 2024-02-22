@@ -1,0 +1,400 @@
+cause	1	Líkami minn varpar skugga yfir grasið.	Sólin hækkaði.	Grasið var skorið.
+cause	1	Konan þoldi erfiða hegðun vinkonu sinnar.	Konan vissi að vinkona hennar gekk í gegnum erfiða tíma.	Konan taldi að vinkona hennar nýtti góðvild sína.
+cause	2	Konurnar hittust í kaffi.	Kaffihúsið opnaði aftur á nýjum stað.	Þeir vildu ná hvor öðrum.
+cause	1	Hlauparinn klæddist stuttbuxum.	Spáin spáði um hátt hitastig.	Hún ætlaði að hlaupa meðfram ströndinni.
+cause	1	Gestir veislunnar földu á bak við sófann.	Þetta var óvænt veisla.	Þetta var afmælisveisla.
+cause	2	Stjórnmálamaðurinn missti kosningarnar.	Hann rak neikvæðar herferðarauglýsingar.	Enginn greiddi atkvæði með honum.
+cause	2	Bletturinn kom út úr bolnum.	Ég lagaði bolinn.	Ég bleikti bolinn.
+cause	2	Maðurinn fékk afslátt af matvörum sínum.	Hann heilsaði gjaldkeranum.	Hann notaði afsláttarmiða.
+effect	1	Læknirinn misgreindi sjúklinginn.	Sjúklingurinn höfðaði málsmeðferð gegn lækninum.	Sjúklingurinn birti lækni trúnaðarupplýsingar.
+cause	2	Viðskiptavinurinn lagði fram kvörtun til verslunarstjórans.	Sölumaðurinn lagði á hleðslu viðskiptavininn.	Sölumaðurinn virkaði dónalegur við viðskiptavininn.
+cause	1	Konan lagfærði blöndunartæki sitt.	Blöndunartækið var lekið.	Slökkt var á blöndunartækinu.
+effect	2	Aldraða konan hlaut heilablóðfall.	Dóttir konunnar kom til að þrífa húsið sitt.	Dóttir konunnar flutti inn til að sjá um hana.
+effect	1	Tjörnin fraus yfir veturinn.	Fólk skaut á tjörnina.	Fólk kom með báta í tjörnina.
+effect	1	Brotamaðurinn brotnaði gegn sóknarleik.	Hún var send aftur í fangelsi.	Hún stal peningum frá kirkju.
+effect	1	Ég hellti vatni á sofandi vin minn.	Vinur minn vaknaði.	Vinur minn hrjóta.
+cause	1	Stúlkan andaðist.	Vinur hennar festi ís teninginn niður bakið.	Vinur hennar gaf henni klapp á bakið.
+cause	2	Bolurinn minnkaði.	Ég hellti bleikju á það.	Ég setti það í þurrkara.
+effect	2	Það varð dimmt úti.	Snjókorn fóru að falla af himni.	Tunglið varð sýnilegt á himni.
+cause	1	Ég hengdi upp símann.	Sá sem hringdi kvaddi mig.	Sá sem hringdi benti á mig.
+effect	2	Hringur konunnar rann af stað í sturtunni.	Konan pússaði hringinn.	Hringurinn fór niður í holræsi.
+cause	1	Stúlkan fékk bikar.	Hún vann stafsetningarbí.	Hún eignaðist nýjan vin.
+effect	1	Dagsetning konunnar vildi líta út eins og heiðursmaður.	Hann opnaði dyrnar fyrir henni.	Hann spurði hana hvort henni líkaði Sushi.
+effect	1	Ræktað land þurfti áveitu.	Skurður var smíðaður.	Flóð átti sér stað.
+cause	1	Gestgjafinn aflýsti flokknum.	Hún var viss um að hún væri með flensu.	Hún hafði áhyggjur af því að hún myndi ná flensu.
+cause	1	Konan gaf manninum símanúmerið sitt.	Hún laðaðist að honum.	Henni var hrakið af honum.
+cause	1	Skydiverinn renndi örugglega til jarðar.	Hún opnaði fallhlífina.	Hún stökk út úr flugvélinni.
+effect	1	Smábarnið varð sveif.	Móðir hennar lagði hana niður í blund.	Móðir hennar festi hárið í pigtails.
+cause	2	Barnið varð ónæmt fyrir sjúkdómnum.	Hann forðaðist útsetningu fyrir sjúkdómnum.	Hann fékk bóluefnið fyrir sjúkdóminn.
+effect	1	Vínberjasafinn gerjaður.	Safinn sneri sér að víni.	Safinn gufaði upp.
+cause	2	Umræður vina drógu sig saman.	Vinirnir sáu auga í augum.	Vinirnir voru að kljúfa hár.
+cause	2	Konan hummaði sig til sín.	Hún var kvíðin.	Hún var í góðu skapi.
+effect	1	Maðurinn hataði nýja klippingu sína.	Hann klæddist hatti.	Hann óx skegg.
+effect	2	Lögreglan miðaði vopnum sínum við flóttann.	Fugitive féll til jarðar.	Fugitive sleppti byssunni sinni.
+effect	2	Sjúklingurinn var þurrkaður.	Hjúkrunarfræðingurinn prófaði viðbragð hans.	Hjúkrunarfræðingurinn gaf honum IV.
+effect	1	Stúlkan fann þrautarstykkið sem vantar.	Hún lauk þrautinni.	Hún tók í sundur þrautina.
+cause	1	Maðurinn stökk brýn úr rúminu.	Hann vildi slökkva á vekjaraklukkunni.	Hann vildi strauja buxurnar sínar fyrir vinnu.
+effect	2	Blöðin voru óskipulögð.	Ég bjó til ljósrit af þeim.	Ég setti þá í stafrófsröð.
+effect	1	Konan vann happdrættið.	Hún keypti snekkju.	Hún gekk í kirkju.
+effect	2	Saumakonan ýtti snittari nálinni í efnið.	Þráðurinn vafinn um nálina.	Þráðurinn fór í gegnum efnið.
+cause	1	Konan réð lögfræðing.	Hún ákvað að lögsækja vinnuveitanda sinn.	Hún ákvað að hlaupa til starfa.
+effect	1	Leigjandi setti upp lykla sína að íbúð sinni.	Leigusali hans opnaði hurðina.	Leigusali hans lagaði hurðina.
+effect	2	Uppáhalds lagið mitt kom í útvarpið.	Ég huldi eyrun mín.	Ég söng með því.
+cause	1	Framkvæmdastjórinn ákvað að ráða ekki umsækjandann.	Umsækjandi mistókst bakgrunnsskoðun.	Umsækjandi hafði reynslu af starfinu.
+effect	1	Auga mannsins smitaðist.	Hann varð blindur.	Hann setti á sig gleraugu.
+cause	2	Fuglinn gat ekki flogið.	Það flutti um veturinn.	Það meiddist vænginn.
+cause	2	Stúlkan óskaði.	Hún sá svartan kött.	Hún sá skotstjörnu.
+effect	1	Konan skjálfti þegar hún kom út um sundlaugina.	Hún vafði sig í handklæði.	Hún hellti sér smá límonaði.
+effect	2	Hjúkrunarfræðingurinn útbjó nálina fyrir inndælingu sjúklingsins.	Sjúklingurinn blæddi.	Sjúklingurinn spennti upp.
+cause	2	Maðurinn henti brauðinu út.	Það var ferskt.	Það var gamalt.
+cause	1	Börnin bankuðu yfir lampa.	Þeir áttu koddabaráttu.	Þeir hoppuðu á rúmið.
+cause	1	Ég drakk úr vatnsbrunninum.	Ég var þyrstur.	Mér fannst ógleði.
+effect	1	Húseigendum líkaði ekki við nasy nágranna sína.	Þeir byggðu girðingu um eignir sínar.	Þeir hýstu grill í bakgarði sínum.
+effect	2	Bodybuilder lyfti lóðum.	Líkamsræktarstöðin lokað.	Vöðvar hennar urðu þreyttir.
+effect	2	Kokinn hrærði innihaldsefnunum í skálinni.	Innihaldsefnin bráðnuðu.	Innihaldsefnin blandast saman.
+effect	2	Maðurinn skrifaði undir skjalið.	Viðskiptin voru ógilt.	Viðskiptin urðu opinber.
+effect	2	Lögreglumaðurinn sleppti byssunni.	Byssan hress.	Byssan fór af stað.
+effect	1	Konan fannst knúin til að hjálpa einhverjum í neyð.	Hún gaf blóð.	Hún samdi ljóð.
+effect	2	Konan fannst einmana.	Hún endurnýjaði eldhúsið sitt.	Hún ættleiddi kött.
+effect	1	Ég nuddaði sandpappír á skóginn.	Viðurinn varð sléttur.	Viðurinn varð klístur.
+effect	2	Fólkið gaf hljómsveitinni standandi egglos.	Hljómsveitin skrifaði undir eiginhandaráritanir.	Hljómsveitin birtist aftur á sviðinu.
+effect	2	Maðurinn henti tómum dósinni sinni á götuna.	Hann var stökk aftan frá.	Hann var sektaður fyrir rusl.
+cause	1	Maginn minn brá.	Ég gleymdi að borða morgunmat.	Ég var fullur af morgunmatnum.
+effect	2	Bátarnir lögðu af stað blossa.	Bátur þeirra rak til landsins.	Bátnum þeirra var bjargað.
+cause	1	Maðurinn fjarlægði kápuna sína.	Hann kom inn í húsið.	Hann losaði jafntefli sitt.
+cause	2	Fjölskyldan fór með hundinn sinn til dýralæknis.	Hundurinn tyggði á bein.	Hundurinn meiddist á loppinu.
+effect	1	Konan dinglaði kexinu fyrir ofan hundinn.	Hundurinn stökk upp.	Hundurinn klóraði skinn hans.
+cause	1	Ég lærði hvernig á að spila borðspilið.	Vinur minn útskýrði reglurnar fyrir mér.	Vinur minn fékk reglurnar rangar.
+cause	1	Maðurinn fór um helgina.	Hann vildi slaka á.	Hann fann fyrir sér.
+cause	2	Versluninni var lokað.	Eigandinn var að hjálpa viðskiptavinum.	Verslunin var í endurnýjun.
+cause	2	Drengurinn stillti útvarpið.	Stöðin var að spila rokktónlist.	Stöðin var að koma inn með Static.
+effect	1	Hryðjuverkamaðurinn lagði af stað sprengjuna.	Sprengjan sprakk.	Sprengjan var óvirk.
+cause	2	Lögreglan handjárnaði hinn grunaða.	Lögreglan kallaði eftir öryggisafriti.	Hinn grunaði stóð gegn handtöku.
+effect	2	Yfirvöld hétu því að vernda deili á glæpasömum.	Fórnarlambið átti í erfiðleikum með að rifja upp upplýsingar um glæpinn.	Þeir héldu nafni fórnarlambsins frá almenningi.
+cause	2	Föt mannsins passa lauslega.	Hann keypti þá til sölu.	Hann léttist.
+effect	2	Klukkan hætti að merkja.	Ég tók þér auka tíma til að verða tilbúinn.	Klukkan sýndi röngan tíma.
+cause	2	Maðurinn lokaði regnhlífinni.	Hann fór út úr bílnum.	Hann nálgaðist bygginguna.
+cause	2	Maðurinn þráði sígarettu.	Fjölskylda hans hvatti hann til að hætta að reykja.	Hann var háður nikótíni.
+effect	2	Maðurinn lækkaði mat á gólfinu.	Hundurinn hans stökk upp á hann.	Hundurinn hans hljóp til að borða matinn.
+effect	1	Stúlkan var reið við vinkonu sína.	Stúlkan dreifði orðrómi um vinkonu sína.	Stúlkan sagði leyndarmál við vinkonu sína.
+effect	2	Fugitive faldi sig frá lögreglunni.	Lögreglan sleppti málinu.	Fugitive var áfram í stórum dráttum.
+effect	2	Ég velti flöskunni.	Vökvinn í flöskunni fraus.	Vökvinn í flöskunni hellti út.
+cause	2	Konan talaði með erlendum hreim.	Hún kom frá auðugri fjölskyldu.	Hún flutti frá öðru landi.
+cause	1	Munnur drengsins stunginn.	Hann borðaði pipar.	Hann sprengdi kertið út.
+effect	2	Ég kláraði síðu bókarinnar.	Ég reif út næstu síðu.	Ég snéri mér að næstu síðu.
+cause	2	Þjónustan á veitingastaðnum var hægt.	Það voru mörg tóm borð.	Veitingastaðurinn var fjölmennur.
+effect	1	Ég sá konu verða rænda á götunni.	Ég hringdi í 911.	Ég fagnaði leigubíl.
+cause	2	Maginn minn meiddi.	Ég skokkaði á hlaupabrettið.	Ég borðaði afmælisköku.
+cause	1	Ég setti diskinn minn í vaskinn.	Ég kláraði að borða.	Ég sleppti kvöldmat.
+cause	1	Maðurinn lokaði bókinni.	Hann kláraði að lesa það.	Það vakti hann til að hugsa.
+cause	2	Drengurinn las skáldsöguna upphátt fyrir afa sinn.	Afi hans var heyrnarlaus.	Afi hans var blindur.
+effect	2	Fóturinn minn var dofinn.	Ég setti skóna á.	Ég hristi fótinn.
+effect	1	Ljósmyndarinn fékk barnið til að brosa.	Ljósmyndarinn sleit fljótt mynd barnsins.	Ljósmyndarinn breytti fljótt stöðu barnsins.
+cause	1	Glugginn var ógagnsæ.	Glerið var litað.	Blindurnar voru opnar.
+cause	1	Ég rann á gólfið.	Flísarnar voru blautar.	Flísar voru klikkaðar.
+effect	2	Maðurinn renndi rakvélinni yfir höku hans.	Stubb hans óx.	Stubb hans hvarf.
+cause	2	Konan fór með fjölskyldu sína í frí.	Eiginmaður hennar var sagt upp.	Hún fékk launabónus.
+cause	2	Konan vaknaði.	Hún tók svefnpillur.	Eiginmaður hennar var að hrjóta.
+effect	2	Konan skynjaði skemmtilega lykt.	Hún minntist þess að taka lyfin sín.	Hún var minnt á barnæsku sína.
+cause	2	Barinn lokaði.	Það var fjölmennt.	Klukkan var 03:00.
+cause	2	Ökumaðurinn var dreginn af lögreglunni.	Hann var bílastæði.	Hann var hraðakstur.
+effect	1	Kennarinn tók rúllu.	Hún benti á nemendurna sem voru fjarverandi.	Hún gaf nemendum sínum popp spurningakeppni.
+effect	2	Ég ýtti á pendúlinn.	Það dró úr stöðvun.	Það sveiflaðist fram og til baka.
+effect	2	Barnið sparkaði í stafla af blokkum.	Stack turnaði yfir höfuð drengsins.	Kubbarnir dreifðir um allt teppið.
+cause	2	Unglingurinn hljóp að heiman.	Hann treysti á foreldra sína.	Foreldrar hans misnotuðu hann.
+cause	1	Ég benti í atvinnuviðtalið.	Spyrillinn spurði erfiðar spurninga.	Ég bjóst við spurningum viðmælandans.
+cause	1	Lyfjafyrirtækið rifjaði upp lyfið.	Notendur sögðu frá hættulegum aukaverkunum.	Notendur fengu áfyllingu á lyfseðlum sínum.
+effect	2	Maðurinn horfði á úrið sitt.	Hann áttaði sig á því að hann gleymdi einhverju.	Hann áttaði sig á því að hann var snemma.
+cause	1	Ég dabbaði gólfið með pappírshandklæði.	Ég hellaði safa á gólfið.	Gólfið var varanlega litað.
+cause	2	Barþjónninn neitaði að þjóna verndaranum.	Verndari var einn.	Verndari var drukkinn.
+effect	2	Ég ruglaði fyrirlestur prófessorsins.	Ég veitti prófessornum athygli.	Ég spurði prófessorsins.
+effect	1	Bókin var talin óviðeigandi fyrir börn.	Skólar bönnuðu því frá bókasöfnum þess.	Kennarar kröfðust nemenda að lesa það.
+effect	1	Maðurinn bað um fyrirgefningu.	Konan vorkenndi honum.	Konan grínaði með honum.
+effect	1	Ég fékk pakka í póstinum.	Pakkinn kallaði fram forvitni mína.	Ég fór með pakkann á pósthúsið.
+effect	1	Ofgnóttin náði bylgjunni.	Bylgjan bar hana að ströndinni.	Hún paddaði borð sitt í hafið.
+effect	2	Ræðumaður afvopnaði umræðu sína.	Ræðumaðurinn óskaði andstæðingi sínum til hamingju.	Ræðumaðurinn vann umræðuna.
+cause	1	Ég flutti til nýrrar borgar.	Ég fann betra launandi starf.	Sonur minn fæddist.
+cause	1	Ég forðast að gefa beint svar við spurningunni.	Spurningin gerði mér óþægilegt.	Ég vildi vera heiðarlegur.
+cause	1	Nemandinn fékk farbann.	Hann talaði aftur við kennarann.	Kennarinn gaf heimavinnuna sína.
+cause	1	Hendur drengsins hristust.	Hann ætlaði að spyrja stúlkuna út.	Lófar hans voru kaldir og sveittir.
+cause	2	Aðdáendurnir á leikvanginum fögnuðu.	Leikurinn endaði í jafntefli.	Spilarinn skoraði.
+effect	2	Stúlkan fór niður hæðina á hjólinu sínu.	Hjólið hennar sveiflaðist.	Hjólið hennar hraðaði upp.
+effect	1	Maður skar fyrir framan mig í langri línu.	Ég stóð frammi fyrir honum.	Ég brosti til hans.
+cause	1	Inni í lestinni varð dimmt.	Lestin ferðaðist um göng.	Lestin hljóp af brautunum.
+effect	1	Maðurinn hugleiddi málverkið.	Hann fann ótti.	Hann hrundi.
+cause	2	Skjaldbaka faldi sig í skel sinni.	Það borðaði fisk.	Það uppgötvaði rándýr.
+cause	2	Stúlkan afhenti yngri systur sinni fötin sín.	Fötin voru rifin.	Hún fór úr fötunum.
+effect	2	Nokkur vitni glæpsins báru vitni gegn hinum grunaða.	Hinn grunaði var sýknaður.	Hinn grunaði var sakfelldur.
+cause	2	Foreldrarnir skildu eftir börn sín með barnapíu.	Yngsta barn þeirra byrjaði að mæta í leikskóla.	Þeir gerðu áætlanir um að fagna afmæli sínu.
+cause	2	Ferðin tók langan tíma.	Ökumaðurinn talaði alla leið.	Ökumaðurinn beygði ranga beygju.
+effect	1	Varan var mjög auglýst.	Neytendur viðurkenndu vöruna.	Varan varð úrelt.
+effect	1	Ég nuddaði sápuna á milli handanna.	Sápan freyði.	Hendur mínar fóru dofinn.
+effect	1	Cowgirl kastaði lassóinu í átt að hestinum.	Lasso greip á hestinn.	Hesturinn rann inn í hlöðuna.
+effect	1	Hópurinn gleymdi gervigras konunnar.	Konunni var létt.	Konan baðst afsökunar.
+effect	1	Stúlkan rakst á framandi orð í kennslubók sinni.	Hún leit hugtakið upp í orðabókinni.	Hún kippti kennslubókinni yfir herbergið.
+effect	1	Maðurinn varð fatlaður.	Fjölskylda hans bauð honum fjárhagslegan stuðning.	Fjölskylda hans skar af sambandi við hann.
+effect	2	Vasaljósið var dautt.	Ég tók það í sundur.	Ég skipti um rafhlöðurnar.
+effect	1	Skunkinn úðaði hundinum.	Hundurinn sendi frá sér villu lykt.	Skunk streymdi um skóginn.
+effect	1	Ég klóraði húðina.	Kláði minn fór.	Örið mitt dofnaði.
+cause	2	Ég skrifaði þakkarskilaboð til ömmu minnar.	Hún gleymdist.	Hún sendi mér gjöf.
+effect	2	Innbrotsþjófur braust inn í húsið.	Húseigendurnir voru sofandi.	Öryggisviðvörunin fór af stað.
+effect	2	Ég hélt um dyrnar fyrir að konan kom inn á bak við mig.	Hurðin skellti lokuðum.	Konan þakkaði mér.
+effect	1	Spegillinn í baðherberginu þokaði upp.	Stúlkan kveikti á aðdáandanum.	Stúlkan beitti förðun sinni.
+cause	2	Öryggisvörðurinn tók við manninum.	Maðurinn náði í vasann.	Maðurinn sýndi vopn.
+effect	2	Ökumaðurinn snéri stýrinu.	Bíllinn stöðvaði.	Bíllinn sneri sér við.
+cause	1	Herinn gaf upp bardaga.	Þeir voru meiri en.	Þeir stormuðu borgina.
+effect	2	Sjóherinn sprengdi skipið.	Skipið hrapaði í bryggjuna.	Rusl skipsins sokkið í sjónum.
+cause	2	Ég straujaði bolinn minn.	Það var hreint.	Það var hrukkað.
+effect	1	Stúlkan fannst svimandi.	Hún missti jafnvægið.	Hún teygir sig.
+cause	2	Ökumaðurinn dró sig til hliðar við veginn.	Hann fór í gegnum gatnamót.	Hann tók eftir strandaðri bifreið.
+cause	1	Sjúkrahúsið sendi sjúklinginn heim.	Einkenni sjúklingsins hreinsuðust upp.	Fjölskylda sjúklings heimsótti hann.
+cause	1	Barnið veiddi lífshættulega veikindi.	Hún varð ekki bólusett.	Hún var ættleidd.
+effect	2	Við fundum tóm sæti í leikhúsinu.	Kvikmyndin hófst.	Við settumst niður.
+effect	2	Foreldrarnir þekktu sköpunargáfu dóttur sinnar.	Þeir kenndu henni hvernig á að hjóla.	Þeir hvöttu hana til að verða listamaður.
+effect	2	Drengurinn sneri lokinu á krukkuna.	Krukkan varð hlý.	Lokið fór af stað.
+cause	2	Konan fékk prófskírteini.	Hún skráði sig í háskóla.	Hún útskrifaðist úr háskóla.
+cause	2	Ég kimaði könnu af vatni.	Ég gekk uppi.	Ég hljóp fimm mílur.
+effect	1	Ég rakst á poll á gangstéttinni.	Ég stökk yfir pollinn.	Ég spilaði í pollinum.
+cause	1	Konan huldi eyrun.	Eldviðvörunin blikkaði.	Konan lyktaði reyk.
+effect	1	Fornleifafræðingurinn gróf upp síðuna.	Hún grafið upp forna gripi.	Hún las um sögu síðunnar.
+cause	1	Áhorfendur fóru með grínistann af sviðinu.	Hann sagði rasista brandara.	Hann skemmti áhorfendum.
+cause	2	Þjálfarinn gaf leikmanni sínum háa fimm.	Spilarinn fékk víti.	Spilarinn skoraði stig.
+effect	2	Ég kastaði boltanum upp á við.	Boltinn rúllaði yfir jörðina.	Boltinn lenti í loftinu.
+effect	2	Andardráttur minn lyktaði af hvítlauk.	Ég þurrkaði munninn.	Ég burstaði tennurnar.
+effect	1	Maðurinn týndist.	Hann bað um leiðbeiningar.	Hann teiknaði kort.
+effect	2	Barnið dró hár móðurinnar.	Barnið burpaði.	Móðirin gasaði.
+effect	1	Ég stóð á öðrum fæti.	Jafnvægið mitt sveiflaðist.	Ég krjúpaði niður.
+effect	1	Ég ýtti á bensínpedalinn.	Bíllinn hraðaði.	Bílhurðin opnaði.
+cause	1	Bíllinn minn var dreginn.	Ég lagði ólöglega.	Ég stökk rafhlöðuna.
+cause	2	Konan komst upp með glæpinn.	Vitorðsmaður hennar var handtekinn.	Hún eyðilagði sönnunargögnin.
+cause	1	Rykið kom af skrifborðinu.	Ég þurrkaði skrifborðið með klút.	Ég fjarlægði bækurnar af skrifborðinu.
+effect	2	Mótorhjólamaðurinn brenglaði inngjöfina.	Mótorhjólið var stöðvuð.	Mótorhjólið skaut fram.
+effect	2	Kennarinn náði nemandanum að tyggja tyggjó.	Gúmmíið festist við skó nemandans.	Nemandinn spýtti úr tyggjóinu.
+effect	1	Gestgjafinn þjónaði gestum sínum kvöldmat.	Gestir hans voru elskulegir.	Gestir hans fóru svangir.
+cause	1	Drengurinn klifraði upp tréð.	Köttur festist í trénu.	Fugl byggði hreiður í trénu.
+cause	2	Stóllinn tíst.	Maðurinn bar stólinn á skrifstofu sína.	Maðurinn skottaði stólinn nær skrifborðinu sínu.
+cause	1	Faðirinn slökkti á sjónvarpi barnanna.	Það var svefn fyrir börnin.	Börnin voru að horfa á teiknimyndir.
+cause	1	Maðurinn hélt andanum.	Hann fór neðansjávar.	Hann troðaði vatni.
+effect	2	Ég rakst á klaufalega ókunnugan.	Ég hljóp á brott.	Ég bað hann afsökunar.
+cause	2	Bátinn hylmdi.	Skipstjórinn vakti seglin.	Það var gripið í fellibyl.
+cause	2	Móðirin grunaði að sonur hennar væri að ljúga.	Hann neitaði að tala við hana.	Hann forðaðist að ná augnsambandi við hana.
+cause	2	Unga konunni var neitað um inngöngu inn á barinn.	Vinir hennar stóðu hana upp.	Hún gleymdi auðkenni sínu.
+cause	2	Gígur myndaðist á tunglinu.	Halastjarna fór framhjá tunglinu.	Halastjarna lenti í árekstri við tunglið.
+effect	2	Ég plantaði fræjum í jarðveginum.	Ég vökvaði jarðveginn.	Fræin spruttu.
+cause	1	Velunnari bað um að vera nafnlaus.	Hann vildi viðhalda friðhelgi sinni.	Hann studdi málstaðinn á bak við framlag sitt.
+effect	2	Konan skammaðist sín fyrir ör í andlitinu.	Hún útskýrði örina fyrir ókunnugum.	Hún faldi örina með förðun.
+effect	1	Læknirinn röntgenmynd handleggs sjúklingsins.	Hann uppgötvaði að handleggur sjúklingsins var brotinn.	Hann setti handlegg sjúklingsins í leikara.
+cause	2	Drengurinn fyllti fötu með sandi.	Hann var að safna skellum í sandinum.	Hann var að smíða sandkastala.
+effect	2	Konan uppfærði tölvuvélbúnaðinn sinn.	Hún eyddi gömlum skrám í tölvunni.	Hún setti upp nýjan hugbúnað í tölvunni.
+effect	2	Stúlkan kom fram í dansleikriti.	Foreldrar hennar sýndu henni hvernig á að dansa.	Foreldrar hennar komu til að horfa á endurskoðunina.
+effect	1	Barnið kveinaði í barnarúmi hans.	Móðirin tók barnið upp.	Barnið skreið til móðurinnar.
+effect	1	Konan var með trúarlega vakningu.	Hún byrjaði að fara í kirkju.	Hún byrjaði að ferðast til útlanda.
+effect	1	Skúffur skrifstofunnar voru ringulreið.	Ég henti óþarfa innihaldi.	Ég læsti skúffunum lokuðum.
+cause	1	Nemandinn flautaði prófunareinkunn sinni til bekkjarfélaga sinna.	Hann fékk fullkomið stig.	Hann vakti áhuga á bekknum.
+cause	1	Drengnum fannst heimþrá.	Hann fór í búðirnar.	Hann gabbaði með systur sinni.
+cause	1	Eldflaugin flaug upp í himininn.	Stúlkan setti hana af stað.	Stúlkan hannaði hana.
+effect	2	Drengurinn möglaði svar sitt við móður sinni.	Móðir hans sagði honum að hvísla.	Móðir hans sagði honum að tala upp.
+cause	1	Flugið mitt seinkaði.	Tornadoes sáust á svæðinu.	Mér var haldið uppi á öryggi flugvallarins.
+cause	2	Reykviðvörunin fór af stað.	Ég kveikti á kerti.	Ég brenndi kvöldmatinn minn.
+effect	2	Vasinn brotnaði.	Ég stenciled það.	Ég límdi það aftur saman.
+cause	1	Konan fann fyrir raflosti.	Hún greip hurðirnar.	Hún barði á dyrnar.
+cause	1	Maðurinn var með varalit á kinnina.	Konan kyssti hann.	Konan lét hann roðna.
+cause	1	Ég stökk ósjálfrátt í hræðslu.	Ég skynjaði einhvern sem nálgaðist mig aftan frá.	Ég heyrði fólk hrollast í aðliggjandi herbergi.
+effect	2	Garðyrkjumaðurinn vildi að plöntur sínar blómstra.	Hann plantaði ýmsum fræjum.	Hann setti áburð í jarðveginn.
+cause	2	Vatnsrör í húsinu springur.	Vatnið var óheilbrigð.	Pípan fraus.
+effect	1	Mitti á buxunum mínum var laust.	Ég setti á belti.	Ég setti á mig hatt.
+cause	2	Fyrirtækið tapaði peningum.	Vörur þess fengu jákvæðar umsagnir um neytendur.	Sumar af vörum þess voru framleiddar gallar.
+cause	1	Leigjendur voru fluttir úr íbúðinni.	Þeir vanræktu að greiða leigu sína.	Þeir náðu saman með leigusala sínum.
+effect	2	Maðurinn vaknaði með tannpínu.	Hann missti af tíma hjá tannlækninum.	Hann pantaði tíma hjá tannlækninum.
+cause	1	Liðið tapaði leiknum.	Besti leikmaðurinn þeirra meiddist.	Þjálfarinn þeirra dældi þeim upp.
+cause	1	Foreldrarnir banna börnum sínum að horfa á myndina.	Kvikmyndin var metin R.	Kvikmyndin var líflegur.
+cause	1	Konan eyddi tölvupóstinum.	Sendandinn reyndi að fara fram á peninga frá henni.	Sendandi óskaði eftir svari frá henni.
+cause	2	Lögreglan útrýmdi konunni af listanum yfir grunaða.	Lögreglan yfirheyrði hana.	Alibi hennar kíkti á.
+effect	2	Klifurnar náðu hámarki fjallsins.	Þeir lentu í snjóflóð.	Þeir óskaði hvor öðrum til hamingju.
+effect	1	Vandalarnir köstuðu kletti við gluggann.	Glugginn klikkaði.	Glugginn þokaði upp.
+effect	1	Opinberanir Fortune Teller voru sannfærandi.	Hún fékk marga heimkomna viðskiptavini.	Margir viðskiptavinir báðu um endurgreiðslur.
+cause	2	Förðun konunnar smurði.	Hún burstaði hárið.	Hún þurrkaði augun.
+effect	1	Hagnaður fyrirtækisins byrjaði að jafna sig.	Það jók markaðsstarf sitt fyrir nýjar vörur.	Það flutti höfuðstöðvar sínar á stað í úthverfum.
+effect	2	Svar nemandans við prófinu var rangt.	Kennarinn bætti bónuspunktum við einkunn nemandans.	Kennarinn dró stig frá bekk nemandans.
+effect	2	Stúlkan vildi sýna fram á viðeigandi siðareglur.	Hún henti servíettunni sinni eftir að hafa borðað.	Hún setti servíettuna sína í fangið áður en hún borðaði.
+effect	2	Leynilögreglumaðurinn blikkaði skjöldu sinni til lögreglumanns.	Lögreglumaðurinn gerði upptækan einkennismerki einkaspæjara.	Lögreglumaðurinn lét einkaspæjara fara inn í glæpasviðið.
+effect	2	Stúlkan vildi gleðja móður sína.	Stúlkan borðaði smákökurnar sem móðir hennar bakaði.	Stúlkan valdi blóm fyrir móður sína.
+effect	2	Smábarnið byrjaði að gráta.	Foreldrar hennar tóku frá sér leikfangið.	Foreldrar hennar gáfu henni leikfang.
+effect	1	Útlendingurinn hrópaði til mín á erlendu tungumáli.	Ég starði autt á hann.	Ég hætti að spjalla við hann.
+effect	2	Maðurinn afhjúpaði sakhæfar sönnunargögn gegn óvinum sínum.	Maðurinn forðaðist óvin sinn.	Maðurinn kúgaði óvin sinn.
+effect	1	Stúlkan ýtti sér af toppi rennibrautarinnar.	Hún svif niður rennibrautina.	Hún skreið upp rennibrautina.
+cause	2	Kjálkinn minn féll opinn.	Ég var óánægður.	Mér var brugðið.
+effect	2	Barnið óhlýðnaði foreldrum sínum.	Foreldrar hennar faðmuðu hana.	Foreldrar hennar refsuðu henni.
+effect	1	Bíllinn leit skítugur út.	Eigandinn fór með það í bílþvottinn.	Eigandi hans tók það inn í málningarvinnu.
+effect	2	Vinur minn borgaði fyrir miðann minn.	Ég leitaði endurgreiðslu.	Ég borgaði henni aftur.
+cause	2	Konan var ranglega sakfelld fyrir glæpinn.	Dómnefndin var sanngjörn.	Hún var rammuð inn.
+effect	1	Stúlkan beitti skæri á blaðið.	Pappírinn sneið í sundur.	Pappírinn krukkaði.
+cause	2	Konan heimsótti fjölskyldu sína.	Hún vantraust þeim.	Hún saknaði þeirra.
+effect	2	Ég sprakk í hlátri.	Tennurnar mínar fóru að þvæla.	Augun mín fóru vel upp með tárum.
+effect	1	Skólastjóri innleiddi klæðaburð.	Nemendur mótmæltu ákvörðuninni.	Nemendum var vísað úr skólanum.
+cause	1	Blöðru stækkaði.	Ég blés inn í það.	Ég prikaði það.
+effect	2	Mig langaði til að létta stemningu samtalsins.	Ég var rólegur.	Ég sagði brandara.
+cause	2	Maðurinn braut tá hans.	Hann fékk gat í sokknum sínum.	Hann sleppti hamri á fótinn.
+effect	2	Maðurinn hafði árás á samvisku.	Hann notaði vin sinn.	Hann viðurkenndi ósjálfstæði sitt.
+effect	1	Fistfight braust út í sal skólans.	Skólastjórinn frestaði nemendum sem hlut eiga að máli.	Skólastjórinn slökkti á bekkjum fyrir daginn.
+cause	1	Myndalbúmin söfnuðu ryki á háaloftinu.	Þeir voru ósnortnir í mörg ár.	Fjölskyldan minnti á myndirnar.
+cause	1	Ég varð annars hugar við samtal mitt við konuna.	Allir í herberginu voru að tala.	Konan var að segja fyndna sögu.
+effect	1	Ég setti mynt í þvottavélina við þvottahúsið.	Vélin knúin áfram.	Ég hljóp úr þvottaefni.
+cause	1	Fjölskyldan frestaði grillinu.	Spáin kallaði á óveður.	Þetta var fríhelgi.
+cause	2	Loft lekur út úr ströndarkúlunni.	Það var uppblásið.	Það var gat í því.
+effect	1	Samtal hópsins okkar lamdi smám saman til þagnar.	Mér leið óþægilega.	Ég varð reiður.
+effect	1	Ég klemmdi nammi umbúðirnar í hnefanum.	Umbúðirnar troðnuðu.	Umbúðirnar rifnuðu.
+effect	1	Konan pressaði niður á píanóhnappinn.	Hljóð spilað.	Lykillinn festist.
+effect	2	Stúlkan hitti uppáhalds leikarann ​​sinn.	Hún fór að sjá nýju myndina hans.	Hún bað hann um eiginhandaráritun hans.
+cause	2	Ökutækin fóru hægt.	Það var skýjað.	Það var þoka.
+cause	1	Krónan splundraði á gólfið.	Krónan féll úr loftinu.	Ljós ljósakrónunnar flöktuðu og slökktu.
+cause	2	Kötturinn bað.	Það klóraði mig.	Ég klappaði því.
+effect	1	Drengurinn ýtti systur sinni.	Systir hans flæddi á hann.	Þeir léku fela og leita.
+effect	1	Maðurinn þyngdist.	Hann fékk fötin sín breytt.	Hann fékk skóna sína skín.
+effect	2	Skýin litu dökkt út.	Ég kom með fartölvuna mína í vinnuna.	Ég kom með regnhlífina mína í vinnuna.
+effect	1	Vél flugvélarinnar var gölluð.	Flugvélin hrapaði.	Flugmaðurinn gerði villu.
+cause	2	Bílar fluttu á öxlina á veginum.	Umferðarljósið varð grænt.	Öskrandi sjúkrabíll nálgaðist.
+cause	1	Drengurinn missti af sápubarnum.	Barinn var hál.	Barinn sendi frá sér ilm.
+effect	1	Hnappurinn á treyjunni minni féll af.	Ég saumaði hnappinn aftur á.	Ég límdi hnappinn aftur á.
+cause	2	Orðstírinn klæddist sólgleraugu.	Hún vildi þakka aðdáendum sínum.	Hún vildi forðast viðurkenningu.
+effect	1	Amma mín lést.	Fjölskyldan mín hélt útför.	Fjölskyldan mín hélt endurfundi.
+effect	1	Lögreglumaðurinn dró yfir orðstírinn.	Orðstírinn bauð yfirmanninum mútur.	Orðstírinn kærði lögreglumanninn.
+cause	1	Maðurinn afhjúpaði meðferðaraðila persónulegar upplýsingar.	Hann treysti meðferðaraðilanum.	Hann var ósammála meðferðaraðilanum.
+cause	1	Maðurinn féll meðvitundarlaus.	Árásarmaðurinn sló manninn í höfuðið.	Árásarmaðurinn tók veskið mannsins.
+cause	2	Ég nálgaðist manninn.	Hann leit upptekinn.	Hann leit kunnuglegur út.
+cause	1	Leiðtoginn fékk lof.	Hann barðist við fátækt.	Hann hækkaði skatta.
+effect	2	Maðurinn las teiknimyndina í dagblaðinu.	Hann sippaði kaffi.	Hann kyrkti.
+cause	2	Pósthólfið mitt var yfirfull með bréfum.	Lokið á pósthólfinu brotnaði.	Ég fór í frí í tvær vikur.
+effect	2	Bananar þroskast.	Við pressuðum þá.	Við borðuðum þá.
+effect	2	Kokkurinn pressaði niður á deigið.	Deigið molnaði.	Deigið flatt út.
+cause	2	Leirinn herti.	Potterinn velti leirinn í bolta.	Potterinn setti leirinn í ofninn.
+cause	1	Fætur mínir voru þynntir.	Ég fór í gönguferðir.	Ég fór að synda.
+effect	2	Konan sveik vinkonu sína.	Vinkona hennar sendi henni kveðjukort.	Vinur hennar skar af sambandi við hana.
+cause	1	Maðurinn tók eftir konunni.	Hann veiddi svip af ilmvatni hennar.	Hann lét bakið snúa sér að henni.
+effect	1	Konan og kærastinn hennar lentu í baráttu.	Þeir hættu að sjá hvort annað.	Þeir skipulögðu frí saman.
+effect	2	Eineltið festi fótinn út fyrir framan bekkjarfélaga sinn.	Eineltið tók bekkjarfélaga sinn upp.	Bekkjarfélagi eineltisins streymdi.
+effect	1	Maðurinn vildi hefna sín á óvinum sínum.	Maðurinn ramma óvin sinn fyrir glæpi.	Maðurinn lýsti yfir vopnahlé með óvinum sínum.
+effect	1	Ég drakk kaffibolla.	Yawning mín hætti.	Ég kinkaði kolli að sofa.
+cause	2	Konan var skakkur fyrir systur sína.	Konan var náin með systur sinni.	Konan leit út eins og systir hennar.
+cause	2	Maðurinn gerði villu í útreikningum sínum.	Hann skoðaði verk sín.	Verk hans voru fljótfær.
+cause	2	Gleraugu konunnar þokust upp.	Hún lagði sig inn við sundlaugina.	Hún kom inn í gufubaðið.
+effect	1	Kaupandi velti fyrir sér kostnaði við hlutinn.	Hann skoðaði verðmiði þess.	Hann ákvað að kaupa það.
+cause	2	Gestgjafi Trivia sýningarinnar hvatti keppandann til að fá svar.	Keppandinn var í forystu.	Keppandinn hringdi í suð.
+cause	2	Drengurinn var hræddur við að fara að sofa.	Hann kveikti á næturljósinu sínu.	Hann horfði á hryllingsmynd.
+effect	2	Konan vildi vera læknir.	Hún heimsótti sjúkrahúsið.	Hún fór í læknaskóla.
+effect	2	Drengnum fannst sjónvarpsþátturinn leiðinlegur.	Hann tók það upp.	Hann lokaði því.
+effect	2	Dóttir mín varð fyrir ofnæmisárás.	Ég hvatti hana til að taka djúpt andann.	Ég fór með hana á slysadeild.
+effect	2	Drengurinn átti í vandræðum með að hnappast á bolinn.	Hann neitaði að klæðast skyrtu.	Hann bað móður sína um hjálp.
+cause	2	Ég hrækti út tyggjóið mitt.	Ég blés kúlu með tyggjóinu.	Gúmmíið missti bragðið.
+effect	1	Drengurinn málaði mynd fyrir móður sína.	Móðir hans hengdi myndina á vegginn.	Móðir hans seldi myndina í gallerí.
+effect	2	Keppni lauk.	Liðunum var dælt upp.	Liðin hristu hendur.
+cause	1	Stúlkan hafnaði hamborgaranum kurteislega.	Hún var grænmetisæta.	Henni líkaði skyndibiti.
+effect	1	Ég skúraði blettinn á gólfinu.	Ég losaði mig við blettinn.	Ég fékk óhreinindi á gólfinu.
+effect	2	Skjölin innihéldu mikilvægar upplýsingar.	Ég pappír klippti þá saman.	Ég hélt þeim á öruggum stað.
+cause	1	Eggið splundraði.	Ég sleppti því.	Ég soðnaði það.
+effect	2	Stúlkan ýtti vinkonu sinni.	Vinkona hennar kæfði.	Vinur hennar féll.
+effect	1	Hópur unglinga brotlenti flokkinn.	Gestgjafi flokksins sparkaði þeim út.	Gestgjafi flokksins bauð þeim inn.
+cause	1	Maðurinn fór í sturtu.	Hann var sveittur frá því að æfa sig.	Hann opnaði nýjan sápubar.
+cause	2	Skjárinn á fartölvunni varð svartur.	Ábyrgð fartölvunnar rann út.	Rafhlaða fartölvunnar dó.
+effect	1	Bókin varð gríðarlegur metsölubók.	Það var aðlagað að kvikmynd.	Höfundur dofnaði í óskýrleika.
+cause	1	Maðurinn fannst þakklátur fyrir að vera á lífi.	Hann var læknaður af krabbameini.	Kona hans greindist með krabbamein.
+cause	2	Konan skrifaði ávísun til gasfyrirtækisins.	Hún vildi helst greiða með peningum.	Hún fékk mánaðarlega reikning sinn.
+cause	1	Konan fannst treg til að skipta um störf.	Hún græddi mikla peninga í núverandi starfi sínu.	Hún þoldi mikið streitu í núverandi starfi sínu.
+cause	2	Konan höfðaði aðhaldsaðgerð gegn manninum.	Maðurinn kallaði hana.	Maðurinn rak hana.
+effect	2	Sjávarföllin voru hættuleg.	Sundmennirnir setja meira sólarvörn.	Sundmennirnir sneru aftur í átt að ströndinni.
+cause	1	Konan neitaði öðrum bjór.	Hún var tilnefndur ökumaður fyrir nóttina.	Hún þekkti barþjóninn.
+cause	1	Ég kláraði andann.	Ég klifraði upp nokkur stigar.	Ég las nokkra kafla bókarinnar.
+effect	1	Konan var talin geðsjúk.	Hún var send til geðrænnar stofnunar.	Hún leitaði ferils sem geðlæknir.
+effect	2	Sólin kom upp úr skýjunum.	Konan leit á vaktina.	Konan tók peysuna af sér.
+cause	1	Fótboltaþjálfarinn missti rödd sína eftir leikinn.	Hann öskraði í hvert skipti sem leikmaður fumlaði boltanum.	Hann flautaði í hvert skipti sem leikmaður skoraði snertingu.
+effect	2	Konan hrósaði manninum.	Hann hnerraði.	Hann roðnaði.
+effect	2	Ég beitti þrýstingi á skurðinn á handleggnum.	Það læknaðist.	Það hætti blæðingum.
+effect	1	Konan var með sýkingu.	Hún tók sýklalyf.	Hún þvoði hendurnar.
+effect	2	Konunni var kallað til dómnefndar.	Hún hafði samband við lögfræðing sinn.	Hún aflýsti stefnumótum sínum.
+cause	2	Konan snéri sér með hendinni.	Hún setti upp loftkælinguna í herberginu.	Loftkælingin í herberginu brotnaði.
+cause	2	Læknarnir aflimuðu fótinn á sjúklingnum.	Það var illa marið.	Það var mjög smitað.
+cause	1	Stúlkan starði á sig í speglinum.	Henni fannst sjálf meðvitund.	Spegillinn var smurður.
+cause	1	Maðurinn var bitinn af moskítóflugum.	Hann fór í útilegu í skóginum.	Hann sofnaði í sófanum sínum.
+effect	2	Konan afhenti bróður sínum gjöf.	Bróðir hennar neitaði að samþykkja gjöfina.	Bróðir hennar umpakkaði gjöfina.
+effect	2	Stjórnandi hreinsaði hálsinn.	Fundinum var frestað.	Fundurinn hófst.
+cause	2	Börnin hlupu í gegnum sprinklerinn.	Þeir borðuðu popsicles.	Þeir voru heitir.
+effect	1	Maðurinn þurfti mynt til að fylla bílastæðið.	Hann leitaði undir bílstólum sínum að lausum breytingum.	Hann bað fólk á götunni um lausar breytingar.
+effect	2	Viðskiptavinurinn hélt að minjagripinn væri of dýr.	Vendinn seldi honum það.	Hann samdi við söluaðilann.
+cause	1	Vísindamaðurinn öðlaðist viðurkenningu.	Hún uppgötvaði nýja tegund.	Hún fékk starfstíma við háskólann.
+effect	1	Bíllinn stoppaði við göngustíginn.	Gangandi fór yfir götuna.	Göngumaðurinn beið á gangstéttinni.
+cause	1	Drengurinn fagnaði stjórnlaust.	Bróðir hans kitlaði hann.	Bróðir hans sparkaði í hann.
+effect	1	Hnén mín krakkuðu á stigann.	Ég náði mér á handriðið.	Handriðið losnaði frá veggnum.
+cause	2	Ég fór að sofa.	Þetta var skýr nótt.	Það var seint.
+effect	2	Vinur minn var að jafna sig eftir skurðaðgerð.	Ég sleppti henni á sjúkrahúsinu.	Ég færði henni kort og blóm.
+effect	2	DJ kveikti tónlistina.	Fólk yfirgaf partýið.	Fólk byrjaði að dansa.
+cause	2	Öryggisvörðurinn spilaði aftur eftirlitsmyndirnar.	Eftirlitsmyndavélin var úr fókus.	Hann tók eftir einhverjum grunsamlegum athöfnum.
+cause	2	Ég hélt áfram í rúminu þegar ég vaknaði.	Ég var svöng.	Það var laugardagur.
+effect	1	Maðurinn lyfti þunga kassanum.	Hann lagði fram bakið.	Hann klóraði bakið.
+cause	2	Tösku konunnar vantaði.	Það innihélt mikið rusl.	Hún skildi það eftir án eftirlits.
+cause	2	Konan varð fyrir minnisleysi.	Hún fékk ofnæmisviðbrögð.	Hún lenti í bílslysi.
+effect	1	Ég þurfti að fá peninga.	Ég fór í bankann.	Ég keypti veski.
+cause	1	Knapinn féll til jarðar.	Bullið lagði knapa.	Bullið elti knapa.
+effect	1	Drengurinn vildi vera vöðvastæltur.	Hann lyfti lóðum.	Hann spilaði tölvuleiki.
+effect	1	Vísindamaðurinn gerði tilraun.	Hún staðfesti kenningu sína.	Hún bjó til gögn sín.
+cause	2	Mjólkin hélt köldum.	Það var gerilsneydd.	Ég geymdi það í kæli.
+cause	1	Fussy barnið róaðist.	Foreldrarnir hristu skrölt fyrir framan barnið.	Foreldrarnir völdu nafn fyrir barnið.
+effect	1	Ég setti ís teninga í heitu súpuna.	Súpan kólnaði.	Súpan varð þykk.
+cause	1	Stúlkan deildi hádegismatnum sínum með vinkonu sinni.	Vinkona hennar gleymdi að koma með hádegismatinn.	Vinkona hennar sat við hliðina á henni í hádeginu.
+cause	1	Lögreglan lokaði rannsókninni.	Þeir gripu hinn grunaða.	Fórnarlambið náði sér.
+effect	1	Rigningin hjaðnaði.	Ég fór í göngutúr.	Ég vafraði á internetinu.
+effect	1	Tebollinn var að flækjast heitt.	Ég blés á það.	Ég hellti því út.
+cause	2	Ljósmyndin dofnaði.	Það var falsað.	Það var gamalt.
+cause	2	Drengurinn fékk svart auga.	Eineltið spottaði drenginn.	Einelti kýldi drenginn.
+effect	2	Ég missti veskið mitt rangt.	Ég sótti símann minn.	Ég fór aftur skrefin mín.
+effect	1	Veiðimaðurinn rann upp úr skotfærum.	Hann endurhlóðaði byssuna.	Hann miðaði að dádýrunum.
+cause	2	Líf sjávar minnkaði.	Bátar sigldu um hafið.	Olía hellti í hafið.
+effect	2	Ég rak ís teninginn undir heitu vatni.	Ís teningurinn festist við fingurna.	Ís teningurinn hvarf.
+cause	2	Viðskiptavinurinn kom í tískuverslunina.	Hún skildi veskið eftir heima.	Gluggaskjárinn greip auga hennar.
+cause	2	Maðurinn drakk vatn með máltíðinni.	Máltíðin hans var köld.	Máltíðin hans var krydduð.
+cause	1	Konan hélt sig frá opinberum stöðum.	Hún var smitandi.	Hún var vímuefna.
+effect	1	Hinn óánægði lykt fyllti herbergið.	Ég klemmdi höndina yfir nefið.	Ég setti gúmmíhanskana á.
+cause	2	Starfsmaðurinn missti af vinnu.	Fjölskylda hennar komst í samband við hana.	Það var dauði í fjölskyldu hennar.
+effect	2	Segullinn laðaði að pappírsklemmunni.	Paperclip féll frá seglinum.	Paperclip festist við segullinn.
+effect	1	Garðyrkjumaðurinn dró illgresið.	Illgresið kom út úr jarðveginum.	Illgresið framleiddi fræ.
+effect	1	Við pöntuðum pizzu.	Pizzan var afhent.	Pizzan varð köld.
+cause	1	Unglingurinn varð hærri en faðir hans.	Hann fór í gegnum vaxtarsprett.	Hann gekk í körfuboltaliðið.
+cause	2	Sjúklingurinn gekkst undir áhættusama læknisaðgerð.	Aðferðin var kostnaðarsöm.	Sérfræðingar mæltu með málsmeðferðinni.
+effect	2	Maðurinn náði bolum sínum á girðingunni.	Hann hoppaði girðinguna.	Ermin reif.
+cause	1	Rannsakendur töldu dauða mannsins sjálfsvíg.	Hann skildi eftir athugasemd.	Hann eignaðist börn.
+cause	2	Tölvan hrundi.	Ég afritaði skrárnar mínar.	Ég halaði niður vírus.
+cause	1	Munnur stúlkunnar verkaði.	Hún missti tönn.	Hún gleypti tyggjóið sitt.
+effect	1	Herbergið var dimmt.	Ég opnaði blindurnar.	Ég þvoði gluggana.
+cause	2	Faðirinn setti dóttur sína í kerruna sína.	Hún lærði að ganga.	Hann var þreyttur á að bera hana.
+cause	1	Njósnari uppgötvaði staðsetningu óvinarins.	Njósnari gallaði síma óvinarins.	Njósnari var ráðinn af ríkisstjórninni.
+cause	2	Glösin á borðinu hellt.	Barnið teiknaði á borðið.	Barnið rak dúkinn.
+effect	2	Vatnið í tepotinu byrjaði að sjóða.	Tepotinn kólnaði.	Teapot flautaði.
+cause	2	Borgin endurkjöraði borgarstjórann.	Borgin lækkaði fjárhagsáætlun sína.	Bæjarstjórinn uppfyllti loforð sín.
+cause	1	Konan ýkti smáatriðin í sögunni.	Hún vildi athygli.	Henni fannst feimin.
+effect	2	Konan lenti í kreppu í miðjum lífi.	Hún lét af störfum.	Hún fór himinköfun.
+effect	2	Maðurinn fór í afneitun um harmleikinn.	Hann komst auðveldlega yfir það.	Hann neitaði að tala um það.
+cause	2	Maðurinn syrgði.	Kona hans gagnrýndi hann.	Móðir hans lést.
+cause	2	Stúlkan var með fóbíu af hundum.	Hún bjargaði yfirgefnum hundi.	Hún var bitin af hundi.
+effect	2	Ég gerði upplausn um að borða hollt mataræði.	Ég mætti ​​í jógatíma.	Ég keypti ávexti og grænmeti.
+cause	2	Sjúklingurinn fór í dá.	Hann varð fyrir tilfinningalegum áföllum.	Hann hlaut heilaskaða.
+effect	2	Samtal vin vina snéri sér að stjórnmálum.	Samtalið róaði niður.	Umræða gaus.
+cause	1	Konan sá vinkonu sína víðsvegar um herbergið.	Konan veifaði.	Konan slapp.
+effect	1	Móðirin þurfti hjálp við að sjá um börnin sín.	Hún sendi börnin til dagvistunar.	Hún gaf upp forræði yfir börnunum.
+cause	1	Ökumaðurinn lagði horn hennar.	Annar bíll sveiflaðist inn í akrein hennar.	Hún tók hægri beygju við ljósið.
+effect	2	Maðurinn vildi spara peninga.	Hann dró peninga af sparisjóðnum sínum.	Hann skar niður í að gera agalaus innkaup.
+cause	1	Ég setti skó á.	Gólfið innihélt brotið gler.	Málningin á veggjunum var blaut.
+cause	1	Bókasafnsfræðingurinn staðsetti bókina í stafla.	Ég óskaði eftir hjálp bókasafnsfræðingsins.	Bókin var könnuð.
+cause	1	Móðirin varð augnhæð með syni sínum.	Hún steig niður.	Hún hélt í hönd hans.
+cause	2	Ég pakkaði saman eigur mínar.	Ég var að leita að nýrri íbúð.	Ég var að flytja úr íbúðinni minni.
+cause	1	Drengurinn hermdi eftir eldri bróður sínum.	Drengurinn leit upp til eldri bróður síns.	Drengurinn glímdi við eldri bróður sinn.
+effect	2	Stúlkan óskaði eftir samþykki foreldris síns.	Hún hljóp að heiman.	Hún hlýddi reglum foreldris síns.
+effect	1	Vörubíllinn hrapaði í mótorhjólið á brúnni.	Mótorhjólamaðurinn lést.	Brúin hrundi.
+cause	1	Smásöluverslunin lagðist niður.	Sala þess var eftirbátar.	Það endurnýjaði leigusamning sinn.
+effect	1	Sundmaðurinn vann keppnina.	Hún fékk gullverðlaun.	Lið hennar tapaði fundinum.
+cause	1	Loftmengun í borginni versnaði.	Verksmiðjur juku framleiðslu sína.	Verksmiðjur leggja niður.
+cause	1	Móðirin skamma dóttur sína.	Dóttir hennar burpaði við eldhúsborðið.	Dóttir hennar setti eldhúsborðið.
+cause	2	Ég afsakaði mig úr hópnum.	Ég slökkti á símanum mínum.	Síminn minn hringdi.
+cause	2	Skíðamaðurinn rann í brekkuna.	Hún sleppti skíðastöngunum.	Hún lenti í ís plástur.
+effect	1	Prentunin á bæklingnum var pínulítill.	Maðurinn setti gleraugun sín á.	Maðurinn sótti penna úr vasanum.
+effect	2	Ég vippaði ljósinu upp og niður.	Ljósið dofnaði.	Ljósið flöktaði.
+effect	2	Vakt mannsins var brotið.	Hann beið við strætóskýlið.	Hann spurði ókunnugan um tíma.
+cause	2	Hermennirnir voru falnir í burstanum.	Þeir voru vopnaðir rifflum.	Þeir klæddust einkennisbúningum.

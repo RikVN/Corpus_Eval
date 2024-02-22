@@ -1,0 +1,400 @@
+cause	1	Moje telo je metalo senco na travo.	Sonce je vzhajalo.	Trava je bila pokošena.
+cause	1	Ženska je tolerirala težko vedenje svoje prijateljice.	Ženska je vedela, da njen prijatelj preživlja težko obdobje.	Ženska je čutila, da je njen prijatelj izkoristil njeno prijaznost.
+cause	2	Ženske so se dobile na kavi.	Kavarna je ponovno odprta na novi lokaciji.	Želeli so se ujeti.
+cause	1	Tekač je nosil kratke hlače.	Napoved je napovedovala visoke temperature.	Načrtovala je teči po plaži.
+cause	1	Gostje zabave so se skrili za kavč.	Bila je zabava presenečenja.	Bila je rojstnodnevna zabava.
+cause	2	Politik je izgubil volitve.	Prikazoval je negativne oglaševalske oglase.	Nihče ni glasoval zanj.
+cause	2	Madež je prišel iz majice.	Pokrpal sem srajco.	Pobelil sem srajco.
+cause	2	Moški je dobil popust na živila.	Pozdravil je blagajničarko.	Uporabil je kupon.
+effect	1	Zdravnik je bolniku postavil napačno diagnozo.	Pacient je zoper zdravnika vložil tožbo zaradi nepravilnega zdravljenja.	Pacient je zdravniku razkril zaupne podatke.
+cause	2	Stranka je vložila pritožbo pri vodji trgovine.	Prodajni sodelavec je stranki zaračunal premalo.	Prodajni sodelavec se je do stranke obnašal nesramno.
+cause	1	Ženska je popravila svojo pipo.	Pipa je puščala.	Pipa je bila zaprta.
+effect	2	Starejšo žensko je zadela možganska kap.	Ženina hčerka je prišla, da bi ji očistila hišo.	Ženina hči se je preselila, da bi skrbela zanjo.
+effect	1	Ribnik je pozimi zmrznil.	Ljudje so drsali na ribniku.	Ljudje so k ribniku pripeljali čolne.
+effect	1	Storilec je kršil pogojni odpust.	Poslali so jo nazaj v zapor.	Ukradla je denar iz cerkve.
+effect	1	Spečega prijatelja sem polil z vodo.	Moj prijatelj se je zbudil.	Moj prijatelj je smrčal.
+cause	1	Deklica je zadihala.	Njena prijateljica ji je v hrbet zataknila kocko ledu.	Njen prijatelj jo je potrepljal po ramenu.
+cause	2	Srajca se je skrčila.	Polil sem ga z belilom.	Dala sem v sušilni stroj.
+effect	2	Zunaj se je stemnilo.	Z neba so začele padati snežinke.	Luna je postala vidna na nebu.
+cause	1	Odložila sem slušalko.	Klicatelj se je poslovil od mene.	Klicatelj se mi je identificiral.
+effect	2	Ženski je pod tušem zdrsnil prstan.	Ženska je zloščila prstan.	Prstan je šel v odtok.
+cause	1	Deklica je prejela pokal.	Osvojila je črkovalno čebelo.	Dobila je novega prijatelja.
+effect	1	Ženski zmenek je želel izgledati kot gospod.	Odprl ji je vrata.	Vprašal jo je, ali ima rada suši.
+effect	1	Kmetijska zemljišča so potrebovala namakanje.	Zgrajen je bil kanal.	Zgodila se je poplava.
+cause	1	Gostitelj je zabavo odpovedal.	Prepričana je bila, da ima gripo.	Skrbelo jo je, da bo zbolela za gripo.
+cause	1	Ženska je moškemu dala svojo telefonsko številko.	Pritegnila ga je.	Bila je odporna do njega.
+cause	1	Padalec je varno zdrsnil na tla.	Odprla je padalo.	Skočila je iz letala.
+effect	1	Malček je postal jezen.	Mati jo je dala zadremati.	Mama ji je lase spenjala v kitke.
+cause	2	Otrok je postal imun na bolezen.	Izogibal se je izpostavljenosti bolezni.	Prejel je cepivo proti bolezni.
+effect	1	Grozdni sok je fermentiral.	Sok se je spremenil v vino.	Sok je izhlapel.
+cause	2	Debata prijateljev se je vlekla neskončno.	Prijatelja sta se videla iz oči v oči.	Prijatelji so cepili dlake.
+cause	2	Ženska si je brenčala.	Bila je živčna.	Bila je dobre volje.
+effect	1	Moški je sovražil svojo novo frizuro.	Nosil je klobuk.	Pustil si je brado.
+effect	2	Policisti so orožje usmerili proti ubežniku.	Ubežnik je padel na tla.	Ubežnik je odvrgel pištolo.
+effect	2	Bolnik je bil dehidriran.	Medicinska sestra je testirala njegove reflekse.	Medicinska sestra mu je dala IV.
+effect	1	Deklica je našla manjkajoči košček sestavljanke.	Sestavila je uganko.	Razstavila je sestavljanko.
+cause	1	Moški je hitro skočil iz postelje.	Hotel je ugasniti budilko.	Želel si je zlikati hlače pred službo.
+effect	2	Časopisi so bili neurejeni.	Naredil sem jih fotokopije.	Razporedil sem jih po abecednem redu.
+effect	1	Ženska je zadela na loteriji.	Kupila je jahto.	Pridružila se je cerkvi.
+effect	2	Šivilja je potisnila iglo z navojem v blago.	Nit, ovita okoli igle.	Nit je šla skozi blago.
+cause	1	Ženska je najela odvetnika.	Odločila se je tožiti delodajalca.	Odločila se je za kandidaturo.
+effect	1	Najemnik je izgubil ključe svojega stanovanja.	Njegov stanodajalec je odklenil vrata.	Njegov stanodajalec je popravil vrata.
+effect	2	Na radiu je bila moja najljubša pesem.	Pokril sem si ušesa.	Pela sem zraven.
+cause	1	Uprava se je odločila, da prosilca ne bo zaposlila.	Prijavitelj ni opravil preverjanja preteklosti.	Kandidat je imel izkušnje za delo.
+effect	1	Moško oko se je okužilo.	Oslepel je.	Nadel si je očala.
+cause	2	Ptica ni mogla leteti.	Prezimilo se je.	Poškodoval si je krilo.
+cause	2	Dekle si je zaželelo.	Videla je črno mačko.	Videla je padajočo zvezdo.
+effect	1	Ženska je drhtela, ko je prišla ven iz bazena.	Zavila se je v brisačo.	Natočila si je limonado.
+effect	2	Medicinska sestra je pripravila iglo za pacientovo injekcijo.	Pacient je izkrvavel.	Pacient se je napel.
+cause	2	Človek je vrgel ven kruh.	Bilo je sveže.	Bilo je zastarelo.
+cause	1	Otroci so prevrnili svetilko.	Imela sta boj z blazinami.	Skakali so po postelji.
+cause	1	Pila sem iz vodnjaka.	Bil sem žejen.	Bilo mi je slabo.
+effect	1	Lastniki stanovanj niso marali svojih radovednih sosedov.	Okoli svoje posesti so zgradili ograjo.	Na domačem dvorišču so pripravili žar.
+effect	2	Bodibilder je dvigoval uteži.	Telovadnica zaprta.	Njene mišice so postale utrujene.
+effect	2	Kuharica je mešala sestavine v skledi.	Sestavine so se stopile.	Sestavine so se zmešale.
+effect	2	Moški je podpisal dokument.	Transakcija je bila razveljavljena.	Transakcija je postala uradna.
+effect	2	Policist je odvrgel pištolo.	Pištola se je odmaknila.	Pištola je počila.
+effect	1	Ženska se je počutila prisiljeno pomagati nekomu v stiski.	Darovala je kri.	Napisala je pesem.
+effect	2	Ženska se je počutila osamljeno.	Prenovila je kuhinjo.	Posvojila je mačko.
+effect	1	Les sem podrgnil z brusnim papirjem.	Les je postal gladek.	Les je postal lepljiv.
+effect	2	Množica je bendu namenila stoječe ovacije.	Bend je dajal avtograme.	Bend se je ponovno pojavil na odru.
+effect	2	Moški je svojo prazno pločevinko vrgel na cesto.	Skočili so ga od zadaj.	Kaznovan je bil zaradi smetenja.
+cause	1	V želodcu mi je krulilo.	Pozabil sem zajtrkovati.	Bila sem polna od zajtrka.
+effect	2	Čolnarji so prižgali raketo.	Njihov čoln je priplulo k obali.	Njihov čoln je bil rešen.
+cause	1	Moški je slekel plašč.	Vstopil je v hišo.	Zrahljal je kravato.
+cause	2	Družina je psa odpeljala k veterinarju.	Pes je prežvečil kost.	Pes si je poškodoval šapo.
+effect	1	Ženska je visela s piškotom nad psom.	Pes je poskočil.	Pes se je popraskal po dlaki.
+cause	1	Naučil sem se igrati družabno igro.	Prijatelj mi je razložil pravila.	Moj prijatelj se je zmotil s pravili.
+cause	1	Moški je odšel za vikend.	Hotel se je sprostiti.	Počutil se je zadovoljen.
+cause	2	Trgovina je bila zaprta.	Lastnik je pomagal strankam.	Trgovina je bila v fazi prenove.
+cause	2	Fant je uglasil radio.	Postaja je predvajala rock glasbo.	Postaja je prihajala s statiko.
+effect	1	Terorist je sprožil bombo.	Bomba je eksplodirala.	Bomba je bila deaktivirana.
+cause	2	Policisti so osumljenca vklenili.	Policija je poklicala pomoč.	Osumljenec se je prijetju upiral.
+effect	2	Oblasti so obljubile, da bodo zaščitile identiteto žrtve zločina.	Žrtev se je s težavo spomnila podrobnosti o zločinu.	Ime žrtve so zamolčali javnosti.
+cause	2	Moška oblačila se ohlapno prilegajo.	Kupil jih je na razprodaji.	Shujšal je.
+effect	2	Ura je prenehala tiktakati.	Vzel sem si dodaten čas, da sem se pripravil.	Ura je kazala napačen čas.
+cause	2	Moški je zaprl dežnik.	Stopil je iz avta.	Približal se je stavbi.
+cause	2	Moški si je zaželel cigareto.	Družina ga je pozvala, naj preneha kaditi.	Bil je odvisen od nikotina.
+effect	2	Moški je na tla spustil hrano.	Njegov pes je skočil nanj.	Njegov pes je pritekel, da bi pojedel hrano.
+effect	1	Deklica je bila jezna na svojega prijatelja.	Dekle je razširilo govorice o svoji prijateljici.	Dekle je svoji prijateljici povedalo skrivnost.
+effect	2	Ubežnik se je skril pred policisti.	Policija je primer opustila.	Ubežnik je ostal na prostosti.
+effect	2	Prevrnil sem steklenico.	Tekočina v steklenici je zmrznila.	Tekočina v steklenici se je izlila.
+cause	2	Ženska je govorila s tujim naglasom.	Izhajala je iz premožne družine.	Migrirala je iz druge države.
+cause	1	Fanta je zapeklo v ustih.	Pojedel je papriko.	Upihnil je svečo.
+effect	2	Končal sem stran knjige.	Iztrgal sem naslednjo stran.	Obrnil sem se na naslednjo stran.
+cause	2	Postrežba v restavraciji je bila počasna.	Bilo je veliko praznih miz.	V restavraciji je bila gneča.
+effect	1	Videl sem žensko, ki so jo oropali na ulici.	Poklicala sem 911.	Poklical sem taksi.
+cause	2	Bolel me je trebuh.	Tekla sem na tekalni stezi.	Jedla sem rojstnodnevno torto.
+cause	1	Svoj krožnik sem dal v umivalnik.	Končal sem jesti.	Večerjo sem izpustil.
+cause	1	Človek je zaprl knjigo.	Končal je z branjem.	To ga je spodbudilo k razmišljanju.
+cause	2	Fant je dedku na glas prebral roman.	Njegov dedek je bil gluh.	Njegov dedek je bil slep.
+effect	2	Noga mi je otrpnila.	Obula sem si čevlje.	Stresla sem z nogo.
+effect	1	Fotograf je otroka nasmejal.	Fotograf je hitro posnel otrokovo fotografijo.	Fotograf je otroku hitro spremenil držo.
+cause	1	Okno je bilo neprozorno.	Steklo je bilo obarvano.	Žaluzije so bile odprte.
+cause	1	spodrsnilo mi je po tleh.	Ploščica je bila mokra.	Ploščica je bila počena.
+effect	2	Moški je drsel z britvico po svoji bradi.	Njegovo strnišče je raslo.	Njegovo strnišče je izginilo.
+cause	2	Ženska je svojo družino odpeljala na počitnice.	Njenega moža so odpustili.	Dobila je dodatek k plači.
+cause	2	Ženska se je zbudila.	Vzela je uspavalne tablete.	Njen mož je smrčal.
+effect	2	Ženska je začutila prijeten vonj.	Spomnila se je, da mora vzeti zdravilo.	Spomnila se je na otroštvo.
+cause	2	Lokal se je zaprl.	Bila je gneča.	Ura je bila 3 zjutraj.
+cause	2	Voznika so ustavili policisti.	Parkiral je.	Prehiter je bil.
+effect	1	Učiteljica je prevzela.	Identificirala je učence, ki so bili odsotni.	Svojim učencem je pripravila pop kviz.
+effect	2	Potisnil sem nihalo.	Upočasnilo se je do ustavitve.	Zanihalo je naprej in nazaj.
+effect	2	Otrok je brcnil kup kock.	Sklad se je dvignil nad dečkovo glavo.	Bloki so bili raztreseni po preprogi.
+cause	2	Mladostnik je pobegnil od doma.	Zanašal se je na starše.	Starši so ga zlorabljali.
+cause	1	Zamudil sem na razgovoru za službo.	Anketar je postavljal težka vprašanja.	Pričakoval sem vprašanja anketarja.
+cause	1	Farmacevtsko podjetje je zdravilo odpoklicalo.	Uporabniki so poročali o nevarnih stranskih učinkih.	Uporabniki so dobili polnila na svoje recepte.
+effect	2	Moški je pogledal na uro.	Ugotovil je, da je nekaj pozabil.	Spoznal je, da je zgodaj.
+cause	1	Tla sem pobrisala s papirnato brisačo.	Polil sem sok po tleh.	Tla so bila trajno umazana.
+cause	2	Natakar ni hotel postreči gosta.	Patron je bil sam.	Pokrovitelj je bil pijan.
+effect	2	Zmedlo me je profesorjevo predavanje.	Pozoren sem bil na profesorja.	Profesorju sem postavljal vprašanja.
+effect	1	Knjiga je bila ocenjena kot neprimerna za otroke.	Šole so ga prepovedale v svojih knjižnicah.	Učitelji so od učencev zahtevali, da jo preberejo.
+effect	1	Moški je prosil za odpuščanje.	Ženska se mu je zasmilila.	Ženska se je šalila z njim.
+effect	1	Po pošti sem prejel paket.	Paket je sprožil mojo radovednost.	Paket sem odnesel na pošto.
+effect	1	Deskar je ujel val.	Val jo je odnesel na obalo.	Z desko je zaveslala v ocean.
+effect	2	Govorka je razorožila debatnega nasprotnika.	Govornica je nasprotnici čestitala.	V razpravi je zmagal govornik.
+cause	1	Preselil sem se v novo mesto.	Našel sem bolje plačano službo.	Moj sin se je rodil.
+cause	1	Izognil sem se neposrednemu odgovoru na vprašanje.	Vprašanje mi je postalo neprijetno.	Hotel sem biti iskren.
+cause	1	Študentka je prejela pripor.	Pogovarjal se je z učiteljem.	Učiteljica je njegovo domačo nalogo ocenila.
+cause	1	Dečku so se tresle roke.	Dekle je nameraval povabiti ven.	Njegove dlani so bile mrzle in potne.
+cause	2	Navijači na stadionu so vzklikali.	Tekma se je končala z izenačenjem.	Igralec je zadel.
+effect	2	Deklica se je s kolesom spustila po hribu.	Kolo ji je zaneslo.	Njeno kolo je pospešilo.
+effect	1	V dolgi vrsti je pred menoj presekal moški.	Soočil sem se z njim.	Nasmehnila sem se mu.
+cause	1	Notranjost vlaka je postala temna.	Vlak je vozil skozi predor.	Vlak je zapeljal s tirov.
+effect	1	Moški je razmišljal o sliki.	Čutil je strahospoštovanje.	Zgrudil se je.
+cause	2	Želva se je skrila v oklep.	Pojedel je ribo.	Zaznal je plenilca.
+cause	2	Deklica je svoja oblačila predala svoji mlajši sestri.	Oblačila so bila razcapana.	Prerasla je oblačila.
+effect	2	Proti osumljencu je pričalo več prič kaznivega dejanja.	Osumljenec je bil oproščen.	Osumljenec je bil obsojen.
+cause	2	Starši so svoje otroke pustili varuški.	Njun najmlajši otrok je začel obiskovati vrtec.	Kovali so načrte za praznovanje obletnice.
+cause	2	Pot je trajala dolgo.	Šofer je govoril celo pot.	Voznik je napačno zavil.
+effect	1	Izdelek je bil močno oglaševan.	Potrošniki so izdelek prepoznali.	Izdelek je postal zastarel.
+effect	1	Milo sem podrgnil med dlani.	Milo se je spenilo.	Roke so mi otrpnile.
+effect	1	Kravarka je laso vrgla proti konju.	Laso je zgrabil konja.	Konj je pridrvel v hlev.
+effect	1	Skupina je spregledala ženski faux pas.	Ženski je odleglo.	Ženska se je opravičila.
+effect	1	Deklica je v učbeniku naletela na neznano besedo.	Pogledala je izraz v slovarju.	Vrgla je učbenik čez sobo.
+effect	1	Moški je postal invalid.	Družina mu je ponudila finančno podporo.	Njegova družina je z njim prekinila stike.
+effect	2	Svetilka je bila mrtva.	Razstavil sem ga.	Zamenjal sem baterije.
+effect	1	Skunk je poškropil psa.	Pes je oddajal neprijeten vonj.	Po gozdu se je potikal skank.
+effect	1	Popraskala sem se po koži.	Moja srbečica je izginila.	Moja brazgotina je zbledela.
+cause	2	Babici sem napisala zahvalo.	Postala je pozabljiva.	Poslala mi je darilo.
+effect	2	Vlomilec je vlomil v hišo.	Lastniki hiše so spali.	Sprožil se je varnostni alarm.
+effect	2	Pridržal sem vrata ženski, ki je vstopila za menoj.	Vrata so se zaloputnila.	Ženska se mi je zahvalila.
+effect	1	Ogledalo v kopalnici se je zarosilo.	Dekle je prižgalo ventilator.	Deklica se je naličila.
+cause	2	Varnostnik se je lotil moškega.	Moški je segel v žep.	Moški je pokazal orožje.
+effect	2	Voznik je zavrtel volan.	Avto se je ustavil.	Avto se je obrnil.
+cause	1	Vojska je bitko predala.	Bili so številčno prekašani.	Vdrli so v mesto.
+effect	2	Mornarica je bombardirala ladjo.	Ladja se je zaletela v pomol.	Ostanki ladje so se potopili v morje.
+cause	2	Zlikala sem si srajco.	Bilo je čisto.	Bilo je zgubano.
+effect	1	Deklici se je vrtelo.	Izgubila je ravnotežje.	Raztezala se je.
+cause	2	Voznik je ustavil ob cestišču.	Šel je skozi križišče.	Opazil je nasedlo vozilo.
+cause	1	Bolnišnica je bolnika poslala domov.	Bolnikovi simptomi so izginili.	Obiskala ga je pacientova družina.
+cause	1	Otrok je zbolel za življenjsko nevarno boleznijo.	Ni se cepila.	Bila je posvojena.
+effect	2	V gledališču smo našli prazne sedeže.	Film se je začel.	Sedla sva.
+effect	2	Starši so prepoznali hčerkino ustvarjalnost.	Naučili so jo voziti kolo.	Spodbujali so jo, naj postane umetnica.
+effect	2	Fant je obrnil pokrov na kozarcu.	Kozarec je postal topel.	Pokrov se je snel.
+cause	2	Ženska je prejela diplomo.	Vpisala se je na fakulteto.	Končala je fakulteto.
+cause	2	Nalil sem vrč vode.	Stopil sem gor.	Pretekel sem pet milj.
+effect	1	Naletela sem na lužo na pločniku.	Skočil sem čez lužo.	Igral sem se v mlaki.
+cause	1	Ženska si je zamašila ušesa.	Oglasil se je požarni alarm.	Ženska je zavohala dim.
+effect	1	Arheolog je izkopal najdišče.	Izkopavala je starodavne artefakte.	Prebrala je o zgodovini mesta.
+cause	1	Občinstvo je komika izžvižgalo z odra.	Povedal je rasistično šalo.	Zabaval je občinstvo.
+cause	2	Trener je svojemu igralcu dal petico.	Igralec je dobil kazen.	Igralec je dosegel točko.
+effect	2	Vrgel sem žogo navzgor.	Žoga se je kotalila po tleh.	Žoga je udarila v strop.
+effect	2	Sapa mi je dišala po česnu.	Obrisala sem si usta.	Umil sem si zobe.
+effect	1	Človek je bil izgubljen.	Vprašal je za pot.	Narisal je zemljevid.
+effect	2	Otrok je mamo vlekel za lase.	Dojenček je rignil.	Mati je naredila grimaso.
+effect	1	Stal sem na eni nogi.	Moje ravnotežje je zamajalo.	Pokleknil sem.
+effect	1	Pritisnil sem pedal za plin.	Avto je pospešil.	Vrata avtomobila so se odprla.
+cause	1	Moj avto so odvlekli.	Nedovoljeno sem parkiral.	Preskočil sem baterijo.
+cause	2	Ženska se je izognila zločinu.	Njenega sostorilca so prijeli.	Uničila je dokaze.
+cause	1	Z mize se je dvignil prah.	S krpo sem obrisala mizo.	Odstranila sem knjige z mize.
+effect	2	Motorist je zasukal ročico za plin.	Motorno kolo se je ustavil.	Motorno kolo je švignilo naprej.
+effect	2	Učitelj je učenca zalotil pri žvečenju žvečilnega gumija.	Žvečilni gumi se je prilepil na študentov čevelj.	Učenec je žvečilni gumi izpljunil.
+effect	1	Domačin je svojim gostom postregel večerjo.	Njegovi gostje so bili prijazni.	Njegovi gostje so bili lačni.
+cause	1	Fant je splezal na drevo.	Mačka se je zagozdila v drevesu.	Ptica si je na drevesu zgradila gnezdo.
+cause	2	Stol je zaškripal.	Moški je odnesel stol v svojo pisarno.	Moški je stol približal svoji mizi.
+cause	1	Oče je otrokom ugasnil televizijo.	Za otroke je bil čas za spanje.	Otroci so gledali risanke.
+cause	1	Moški je zadržal dih.	Šel je pod vodo.	Stopal je po vodi.
+effect	2	Nespretno sem trčil v tujca.	pobegnil sem.	Opravičil sem se mu.
+cause	2	Čoln se je prevrnil.	Kapitan je dvignil jadro.	Ujel ga je orkan.
+cause	2	Mati je posumila, da njen sin laže.	Zavrnil je pogovor z njo.	Izogibal se je očesnemu stiku z njo.
+cause	2	Mladeniči ni bil dovoljen vstop v lokal.	Prijatelji so jo postavili pokonci.	Pozabila je osebno izkaznico.
+cause	2	Na luni je nastal krater.	Mimo lune je šel komet.	Komet je trčil v luno.
+effect	2	Semena sem posadila v zemljo.	Zemljo sem zalil.	Semena so vzklila.
+cause	1	Dobrotnik je želel ostati anonimen.	Želel je ohraniti svojo zasebnost.	Podprl je namen svoje donacije.
+effect	2	Ženska se je sramovala brazgotine na obrazu.	Neznancem je razložila brazgotino.	Brazgotino je skrila z ličili.
+effect	1	Zdravnik je rentgensko slikal pacientovo roko.	Ugotovil je, da ima bolnik zlomljeno roko.	Pacientu je dal roko v mavec.
+cause	2	Deček je vedro napolnil s peskom.	V pesku je nabiral školjke.	Gradil je peščeni grad.
+effect	2	Ženska je nadgradila svojo računalniško strojno opremo.	Izbrisala je stare datoteke na računalniku.	Na računalnik je namestila novo programsko opremo.
+effect	2	Dekle je nastopilo v plesnem recitalu.	Njeni starši so ji pokazali, kako se pleše.	Njeni starši so prišli gledat recital.
+effect	1	Dojenček je jokal v svoji posteljici.	Mati je pobrala otroka.	Dojenček je priplazil k materi.
+effect	1	Ženska se je versko prebudila.	Začela je hoditi v cerkev.	Začela je potovati v tujino.
+effect	1	Predali pisarne so bili razmetani.	Nepotrebno vsebino sem zavrgel.	Zaklenil sem predale.
+cause	1	Dijak se je s svojo oceno testa pohvalil sošolcem.	Dobil je odlično oceno.	Zanimal se je za razred.
+cause	1	Fant je čutil domotožje.	Odšel je v taborišče.	Prepiral se je s sestro.
+cause	1	Raketa je poletela v nebo.	Dekle ga je sprožilo.	Dekle ga je oblikovalo.
+effect	2	Deček je zamrmral svoj odgovor materi.	Mati mu je rekla, naj šepeta.	Mati mu je rekla, naj spregovori.
+cause	1	Moj let je imel zamudo.	Na tem območju so opazili tornade.	Varnost na letališču me je zadržala.
+cause	2	Sprožil se je dimni alarm.	Prižgal sem svečo.	Zažgal sem svojo večerjo.
+effect	2	Vaza se je razbila.	Šabloniral sem ga.	Zlepil sem ga nazaj skupaj.
+cause	1	Ženska je začutila električni udar.	Prijela je za kljuko.	Trkala je po vratih.
+cause	1	Moški je imel šminko na licu.	Ženska ga je poljubila.	Zaradi ženske je zardel.
+cause	1	Prestrašeno sem instinktivno poskočila.	Začutil sem, da se mi nekdo približuje od zadaj.	Slišal sem smejanje ljudi v sosednji sobi.
+effect	2	Vrtnar je želel, da bi njegove rastline uspevale.	Posadil je različna semena.	V zemljo je dal gnojilo.
+cause	2	V hiši je počila vodovodna cev.	Voda je bila nezdrava.	Cev je zmrznila.
+effect	1	Pas na mojih hlačah je bil ohlapen.	Nataknem si pas.	Nadel sem klobuk.
+cause	2	Podjetje je izgubilo denar.	Njegovi izdelki so prejeli pozitivne ocene potrošnikov.	Nekateri njegovi izdelki so bili izdelani z napako.
+cause	1	Najemnika sta bila deložirana iz stanovanja.	Zanemarjali so plačilo najemnine.	S stanodajalcem sta se razumela.
+effect	2	Moški se je zbudil z zobobolom.	Zamudil je na obisk pri zobozdravniku.	Naročil se je pri zobozdravniku.
+cause	1	Ekipa je izgubila igro.	Njihov najboljši igralec se je poškodoval.	Njihov trener jih je napolnil.
+cause	1	Starši so otrokom prepovedali ogled filma.	Film je dobil oceno R.	Film je bil animiran.
+cause	1	Ženska je izbrisala e-pošto.	Pošiljatelj je poskušal od nje zahtevati denar.	Pošiljatelj je od nje zahteval odgovor.
+cause	2	Policija je žensko izločila s seznama osumljencev.	Policija jo je zaslišala.	Njen alibi je preverjen.
+effect	2	Plezalci so dosegli vrh gore.	Naleteli so na snežni plaz.	Čestitali so si.
+effect	1	Vandali so v okno vrgli kamen.	Okno je počilo.	Okno se je zarosilo.
+effect	1	Vedeževalkina razkritja so bila prepričljiva.	Sprejela je veliko strank, ki so se vračale.	Veliko strank je zahtevalo vračilo denarja.
+cause	2	Ženska je razmazala ličila.	Očistila si je lase.	Obrisala si je oči.
+effect	1	Dobiček podjetja se je začel umirjati.	Povečala je svoja tržna prizadevanja za nove izdelke.	Svoj sedež je preselila v primestno lokacijo.
+effect	2	Študentov odgovor na izpitu ni bil pravilen.	Učitelj je učenčevi oceni dodal dodatne točke.	Učitelj je učenčevi oceni odštel točke.
+effect	2	Deklica je želela pokazati pravilen bonton.	Po jedi je odvrgla prtiček.	Pred jedjo si je prtiček položila v naročje.
+effect	2	Detektiv je policistu pokazal svojo značko.	Policist je detektivu zasegel značko.	Policist je detektiva spustil na kraj zločina.
+effect	2	Deklica je želela osrečiti svojo mamo.	Deklica je jedla piškote, ki jih je spekla njena mama.	Deklica je natrgala rožo za svojo mamo.
+effect	2	Malček je začel jokati.	Starši so ji vzeli igračo.	Starši so ji podarili igračo.
+effect	1	Neznanec me je zavpil v tujem jeziku.	Topo sem strmela vanj.	Ustavil sem se, da bi poklepetal z njim.
+effect	2	Moški je odkril obremenilne dokaze zoper svojega sovražnika.	Človek se je izogibal sovražniku.	Človek je izsiljeval svojega sovražnika.
+effect	1	Deklica se je odrinila z vrha tobogana.	Drsela je po toboganu.	Splazila se je po toboganu.
+cause	2	Čeljust se mi je razprla.	Bil sem nesrečen.	Bil sem šokiran.
+effect	2	Otrok staršev ni ubogal.	Starši so jo objeli.	Starši so jo kaznovali.
+effect	1	Avto je bil videti umazan.	Lastnik ga je odnesel v avtopralnico.	Lastnik ga je odnesel na barvanje.
+effect	2	Prijatelj mi je plačal vstopnico.	Zahteval sem vračilo.	Vrnil sem ji.
+cause	2	Ženska je bila za zločin obsojena po krivici.	Žirija je bila poštena.	Bila je uokvirjena.
+effect	1	Deklica je s škarjami na papir.	Papir je bil razrezan.	Papir se je zmečkal.
+cause	2	Ženska je obiskala svojo družino.	Ni jim zaupala.	Pogrešala jih je.
+effect	2	Prasnila sem v smeh.	Zobje so mi začeli šklepetati.	Oči so se mi zalile s solzami.
+effect	1	Ravnatelj šole je izvajal kodeks oblačenja.	Študentje so proti odločitvi protestirali.	Učence so izključili iz šole.
+cause	1	Balon se je razširil.	Pihal sem vanj.	Zbodel sem ga.
+effect	2	Želel sem razvedriti razpoloženje pogovora.	Ostal sem tiho.	Povedal sem šalo.
+cause	2	Moški si je zlomil prst na nogi.	Dobil je luknjo v nogavici.	Na nogo mu je padlo kladivo.
+effect	2	Človek je imel napad vesti.	Manipuliral je s svojim prijateljem.	Priznal je svojo nerazsodnost.
+effect	1	V avli šole je izbruhnil pest.	Ravnatelj je vpletene dijake suspendiral.	Ravnatelj je za ta dan odpovedal pouk.
+cause	1	Foto albumi so nabirali prah na podstrešju.	Leta so ostali nedotaknjeni.	Družina je ob fotografijah obujala spomine.
+cause	1	Odvrnil sem se od pogovora z žensko.	Vsi v sobi so se pogovarjali.	Ženska je pripovedovala smešno zgodbo.
+effect	1	V pralnici dam kovance v pralni stroj.	Stroj se je vklopil.	Zmanjkalo mi je detergenta za pranje perila.
+cause	1	Družina je žar preložila.	Napoved je napovedovala nevihte.	Bil je praznični vikend.
+cause	2	Zrak je uhajal iz žoge za plažo.	Bilo je napihnjeno.	V njej je bila luknja.
+effect	1	Pogovor naše skupine je postopoma utihnil.	Počutil sem se nerodno.	Postal sem besen.
+effect	1	Zavitek sladkarije sem stisnila v pest.	Ovoj se je zmečkal.	Ovoj se je strgal.
+effect	1	Ženska je pritisnila na tipko klavirja.	Predvajan zvok.	Ključ se je zataknil.
+effect	2	Deklica je spoznala svojega najljubšega igralca.	Šla je gledat njegov novi film.	Prosila ga je za avtogram.
+cause	2	Vozila so vozila počasi.	Bilo je oblačno.	Bila je megla.
+cause	1	Lestenec se je razbil na tla.	Lestenec je padel s stropa.	Luči na lestencu so se prižigale in ugašale.
+cause	2	Maček je predel.	Spraskalo me je.	Pobožal sem ga.
+effect	1	Fant je potisnil svojo sestro.	Sestra ga je nagovarjala.	Igrali so se skrivalnice.
+effect	1	Človek se je zredil.	Preoblekel si je obleko.	Nasijal si je čevlje.
+effect	2	Oblaki so bili videti temni.	V službo sem prinesel prenosni računalnik.	V službo sem prinesel svoj dežnik.
+effect	1	Motor letala je bil v okvari.	Letalo je strmoglavilo.	Pilot je naredil napako.
+cause	2	Avtomobili so se premaknili na rob ceste.	Na semaforju je svetila zelena luč.	Približalo se je kričeče rešilno vozilo.
+cause	1	Fant je izgubil kos mila.	Bar je bil spolzek.	Bar je dišal.
+effect	1	Odpadel mi je gumb na srajci.	Gumb sem prišila nazaj.	Gumb sem prilepil nazaj.
+cause	2	Zvezdnik je nosil sončna očala.	Želela se je zahvaliti svojim oboževalcem.	Želela se je izogniti prepoznavnosti.
+effect	1	Moja babica je umrla.	Moja družina je imela pogreb.	Moja družina je imela srečanje.
+effect	1	Policist je zvezdnika ustavil.	Zvezdnik je policistu ponudil podkupnino.	Zvezdnik je tožil policista.
+cause	1	Moški je terapevtu razkril osebne podatke.	Zaupal je terapevtu.	S terapevtom se ni strinjal.
+cause	1	Moški je padel v nezavest.	Napadalec je moškega udaril v glavo.	Napadalec je moškemu vzel denarnico.
+cause	2	Približal sem se moškemu.	Videti je bil zaposlen.	Videti je bil znan.
+cause	1	Vodja je prejel pohvalo.	Boril se je z revščino.	Zvišal je davke.
+effect	2	Moški je prebral karikaturo v časopisu.	Srkal je kavo.	Zasmejal se je.
+cause	2	Moj nabiralnik je bil poln pisem.	Počil je pokrov na nabiralniku.	Za dva tedna sem šel na dopust.
+effect	2	Banane so dozorele.	Stisnili smo jih.	Pojedli smo jih.
+effect	2	Kuhar je pritisnil na testo.	Testo se je razpadlo.	Testo se je sploščilo.
+cause	2	Glina se je strdila.	Lončar je glino zvaljal v kepo.	Lončar je dal glino v peč.
+cause	1	Na nogah sem imela mehurje.	Šel sem na pohod.	Šel sem plavati.
+effect	2	Ženska je izdala svojega prijatelja.	Prijateljica ji je poslala voščilnico.	Prijateljica je z njo prekinila stike.
+cause	1	Moški je opazil žensko.	Zaznal je vonj njenega parfuma.	Bil je s hrbtom obrnjen proti njej.
+effect	1	Ženska in njen fant sta se sprla.	Nehala sta se videvati.	Skupaj sta načrtovala počitnice.
+effect	2	Nasilnež je sošolcu pomolil nogo ven.	Nasilnež je pobral svojega sošolca.	Nasilnežev sošolec se je spotaknil.
+effect	1	Moški se je želel maščevati sovražniku.	Človek je svojemu sovražniku podtaknil zločin.	Moški je s sovražnikom razglasil premirje.
+effect	1	Spil sem skodelico kave.	Moje zehanje je prenehalo.	Odkimal sem, da sem zaspal.
+cause	2	Žensko so zamenjali za njeno sestro.	Ženska je bila blizu svoje sestre.	Ženska je bila videti kot njena sestra.
+cause	2	Človek se je zmotil v svojih izračunih.	Preveril je svoje delo.	Njegovo delo je bilo naglo.
+cause	2	Ženski so se zarosila očala.	Ležala je ob bazenu.	Vstopila je v savno.
+effect	1	Kupec se je spraševal o ceni predmeta.	Preveril je njegovo ceno.	Odločil se je za nakup.
+cause	2	Voditelj oddaje Trivia je tekmovalca poklical k odgovoru.	Tekmovalec je bil v vodstvu.	Tekmovalec je zazvonil na brenčalo.
+cause	2	Fant se je bal iti v posteljo.	Prižgal je nočno lučko.	Gledal je grozljivko.
+effect	2	Ženska je želela biti zdravnica.	Obiskala je bolnišnico.	Hodila je na medicinsko šolo.
+effect	2	Dečku se je televizijska oddaja zdela dolgočasna.	Posnel ga je.	Ugasnil ga je.
+effect	2	Moja hčerka je doživela napad alergije.	Spodbujal sem jo, naj globoko diha.	Odpeljal sem jo na urgenco.
+effect	2	Fant je imel težave z zapenjanjem gumbov na srajci.	Srajce ni hotel obleči.	Mamo je prosil za pomoč.
+cause	2	Izpljunil sem svoj žvečilni gumi.	Z žvečilnim gumijem sem napihnil mehurček.	Gumi je izgubil okus.
+effect	1	Deček je naslikal sliko za svojo mamo.	Njegova mati je obesila sliko na steno.	Njegova mama je sliko prodala galeriji.
+effect	2	Tekmovanje se je zaključilo.	Ekipe so bile napolnjene.	Ekipi sta si segli v roke.
+cause	1	Deklica je vljudno zavrnila hamburger.	Bila je vegetarijanka.	Rada je imela hitro hrano.
+effect	1	Zdrgnil sem madež na tleh.	Znebila sem se madeža.	Imam umazanijo na tleh.
+effect	2	Dokumenti so vsebovali pomembne podatke.	Spojil sem jih skupaj.	Shranil sem jih na varnem mestu.
+cause	1	Jajce je pljusknilo.	Izpustil sem ga.	Skuhal sem ga.
+effect	2	Deklica je potisnila prijateljico.	Njena prijateljica se je zadušila.	Njen prijatelj se je prevrnil.
+effect	1	Skupina najstnikov je ponesrečila zabavo.	Gostitelj zabave jih je izgnal.	Gostitelj zabave jih je povabil noter.
+cause	1	Moški se je stuširal.	Bil je prepoten od vadbe.	Odprl je novo milo.
+cause	2	Zaslon na prenosniku je postal črn.	Prenosniku je potekla garancija.	Baterija prenosnika je izpraznjena.
+effect	1	Knjiga je postala velika prodajna uspešnica.	Prirejen je bil v film.	Avtor je zbledel v temo.
+cause	1	Človek je bil hvaležen, da je živ.	Ozdravel je raka.	Njegova žena je zbolela za rakom.
+cause	2	Ženska je napisala ček plinskemu podjetju.	Raje je plačevala z gotovino.	Dobila je svoj mesečni račun.
+cause	1	Ženska je imela nenaklonjenost menjavi poklica.	V svojem trenutnem poklicu je zaslužila veliko denarja.	V svojem trenutnem poklicu je preživela veliko stresa.
+cause	2	Ženska je zoper moškega izdala ukrep prepovedi približevanja.	Moški jo je poklical.	Moški jo je zalezoval.
+effect	2	Oceanska plima je bila nevarna.	Kopalci si nanesejo več kreme za sončenje.	Kopalci so se vrnili proti obali.
+cause	1	Ženska je zavrnila drugo pivo.	Bila je določena voznica za noč.	Poznala je barmana.
+cause	1	Zmanjkalo mi je sape.	Povzpel sem se po več stopnicah.	Prebrala sem več poglavij knjige.
+effect	1	Ženska je bila ocenjena kot duševno bolna.	Poslana je bila v psihiatrično ustanovo.	Iskala je kariero psihiatra.
+effect	2	Sonce se je pokazalo iz oblakov.	Ženska je pogledala na uro.	Ženska je slekla pulover.
+cause	1	Nogometni trener je po tekmi ostal brez glasu.	Vpil je vsakič, ko je igralec udaril žogo.	Zažvižgal je vsakič, ko je igralec dosegel touchdown.
+effect	2	Ženska je moškega pohvalila.	Kihnil je.	Zardel je.
+effect	2	Pritiskala sem na rano na roki.	Zacelilo se je.	Ustavilo je krvavenje.
+effect	1	Ženska je imela okužbo.	Jemala je antibiotike.	Umila si je roke.
+effect	2	Ženska je bila poklicana na porotniško dolžnost.	Povezala se je s svojim odvetnikom.	Odpovedala je svoje termine.
+cause	2	Žena se je pahljala z roko.	V sobo je namestila klimatsko napravo.	Pokvarila se je klimatska naprava v sobi.
+cause	2	Zdravniki so bolniku amputirali nogo.	Bilo je hudo obtolčeno.	Bilo je hudo okuženo.
+cause	1	Deklica se je zagledala v ogledalo.	Počutila se je nezavestno.	Ogledalo je bilo zamazano.
+cause	1	Moškega so pičili komarji.	Šel je kampirat v gozd.	Zaspal je na svojem kavču.
+effect	2	Ženska je bratu podarila darilo.	Njen brat darila ni hotel sprejeti.	Njen brat je darilo odvil.
+effect	2	Administratorka se je odkašljala.	Sestanek je bil preložen.	Sestanek se je začel.
+cause	2	Otroci so tekli skozi špricer.	Jedli so sladoled.	Bili so vroči.
+effect	1	Moški je potreboval kovance, da je napolnil parkirni avtomat.	Pod avtomobilskimi sedeži je iskal drobiž.	Ljudi na ulici je prosil za drobiž.
+effect	2	Kupcu se je zdel spominek predrag.	Prodajalec mu ga je prodal.	Pogajal je s prodajalcem.
+cause	1	Znanstvenik je pridobil priznanje.	Odkrila je novo vrsto.	Dobila je mandat na univerzi.
+effect	1	Avto je obstal na prehodu za pešce.	Pešec je prečkal cesto.	Pešec je čakal na pločniku.
+cause	1	Fant se je nenadzorovano hihital.	Brat ga je žgečkal.	Brat ga je brcnil.
+effect	1	Na stopnicah so se mi zašibila kolena.	Ujel sem se na ograjo.	Ograja je popustila s stene.
+cause	2	Šel sem v posteljo.	Bila je jasna noč.	Bilo je pozno.
+effect	2	Moj prijatelj je okreval po operaciji.	Odložil sem jo v bolnišnico.	Prinesel sem ji voščilnico in rože.
+effect	2	DJ je prižgal glasbo.	Ljudje so zapustili zabavo.	Ljudje so začeli plesati.
+cause	2	Varnostnik je ponovno predvajal posnetek nadzorne kamere.	Nadzorna kamera ni bila izostrena.	Opazil je sumljivo dejavnost.
+cause	2	Ko sem se zbudil, sem obležal v postelji.	Bil sem lačen.	Bila je sobota.
+effect	1	Moški je dvignil težko škatlo.	Iztegnil je hrbet.	Popraskal se je po hrbtu.
+cause	2	Manjkala je ženska torbica.	Vseboval je veliko krame.	Pustila ga je brez nadzora.
+cause	2	Ženska je utrpela amnezijo.	Imela je alergijsko reakcijo.	Prišla je v prometno nesrečo.
+effect	1	Potreboval sem denar.	Šel sem na banko.	Kupil sem denarnico.
+cause	1	Jezdec je padel na tla.	Bik je premagal jezdeca.	Bik je lovil jezdeca.
+effect	1	Fant je želel biti mišičast.	Dvigoval je uteži.	Igral je računalniške igre.
+effect	1	Znanstvenik je izvedel poskus.	Svojo teorijo je potrdila.	Izmislila si je svoje podatke.
+cause	2	Mleko je ostalo hladno.	Bilo je pasterizirano.	Shranila sem v hladilniku.
+cause	1	Nemirni dojenček se je umiril.	Starša sta pred dojenčka stresla ropotuljico.	Starši so izbrali ime za otroka.
+effect	1	V vročo juho dam ledene kocke.	Juha se je ohladila.	Juha je postala gosta.
+cause	1	Deklica je kosilo delila s prijateljico.	Njen prijatelj je pozabil prinesti kosilo.	Pri kosilu je poleg nje sedela njena prijateljica.
+cause	1	Policija je preiskavo zaključila.	Osumljenca so prijeli.	Žrtev je okrevala.
+effect	1	Dež je pojenjal.	Šel sem na sprehod.	Brskal sem po internetu.
+effect	1	Skodelica čaja je bila vroča.	Pihal sem na to.	Izlil sem ga.
+cause	2	Fotografija je zbledela.	Bil je lažen.	Bilo je staro.
+cause	2	Fant je dobil črno oko.	Nasilnež se je fantu posmehoval.	Nasilnež je fanta udaril.
+effect	2	Zapravil sem denarnico.	Vzel sem svoj telefon.	Vrnil sem se po svojih korakih.
+effect	1	Lovcu je zmanjkalo streliva.	Ponovno je napolnil pištolo.	Nameril je na jelena.
+cause	2	Morsko življenje se je zmanjšalo.	Čolni so pluli po oceanu.	Nafta se je razlila v ocean.
+effect	2	Ledeno kocko sem spustil pod toplo vodo.	Kocka ledu se mi je prilepila na prste.	Ledena kocka je izginila.
+cause	2	Stranka je prišla v butik.	Denarnico je pustila doma.	Pogled ji je pritegnila izložba.
+cause	2	Moški je ob obroku pil vodo.	Njegov obrok je bil hladen.	Njegov obrok je bil začinjen.
+cause	1	Ženska se je izogibala javnim krajem.	Bila je nalezljiva.	Bila je vinjena.
+effect	1	Gniloben vonj je napolnil sobo.	Z roko sem si prijel nos.	Nadel sem si gumijaste rokavice.
+cause	2	Delavec je zamudil delo.	Njena družina je stopila v stik z njo.	V njeni družini je prišlo do smrti.
+effect	2	Magnet je pritegnil sponko.	Sponka je padla z magneta.	Sponka se je zataknila za magnet.
+effect	1	Vrtnar je populil plevel.	Plevel je prišel iz zemlje.	Plevel je dal semena.
+effect	1	Naročili smo pico.	Pica je bila dostavljena.	Pica se je ohladila.
+cause	1	Najstnik je postal višji od očeta.	Šel je skozi skok v rasti.	Pridružil se je košarkarski ekipi.
+cause	2	Pacient je bil podvržen tveganemu medicinskemu posegu.	Postopek je bil drag.	Strokovnjaki priporočajo postopek.
+effect	2	Moški se je za rokav zapletel za prečke ograje.	Skočil je čez ograjo.	Rokav se je raztrgal.
+cause	1	Preiskovalci so smrt moškega ocenili kot samomor.	Pustil je sporočilo.	Imel je otroke.
+cause	2	Računalnik se je sesul.	Varnostno sem kopiral svoje datoteke.	Prenesel sem virus.
+cause	1	Deklico so bolela usta.	Izgubila je zob.	Pogoltnila je žvečilni gumi.
+effect	1	Soba je bila temna.	Odprl sem žaluzije.	Pomil sem okna.
+cause	2	Oče je dal svojo hčerko v njen voziček.	Naučila se je hoditi.	Utrujen jo je nosil.
+cause	1	Vohun je odkril sovražnikovo lokacijo.	Vohun je prisluškoval sovražnikovemu telefonu.	Vohuna je najela vlada.
+cause	2	Kozarci na mizi so se razlili.	Otrok je risal po mizi.	Otrok je potegnil prt.
+effect	2	Voda v čajniku je začela vreti.	Čajnik se je ohladil.	Čajnik je zažvižgal.
+cause	2	Mesto je ponovno izvolilo župana.	Mesto je zmanjšalo proračun.	Župan je svoje obljube izpolnil.
+cause	1	Ženska je pretiravala s podrobnostmi zgodbe.	Želela je pozornost.	Bila je sramežljiva.
+effect	2	Ženska je zadela krizo srednjih let.	Upokojila se je.	Potapljala se je v nebo.
+effect	2	Moški je zanikal tragedijo.	Zlahka ga je prebolel.	O tem ni hotel govoriti.
+cause	2	Človek je žaloval.	Žena ga je kritizirala.	Njegova mati je umrla.
+cause	2	Deklica je imela fobijo pred psi.	Rešila je zapuščenega psa.	Ugriznil jo je pes.
+effect	2	Odločila sem se, da bom jedla zdravo prehrano.	Obiskovala sem tečaj joge.	Kupil sem sadje in zelenjavo.
+cause	2	Pacient je padel v komo.	Utrpel je čustveno travmo.	Utrpel je poškodbe možganov.
+effect	2	Pogovor prijateljev ob večerji se je sprevrgel v politiko.	Pogovor je potihnil.	Vnela se je debata.
+cause	1	Ženska je z druge strani sobe opazila svojo prijateljico.	Ženska je pomahala.	Ženska je pobegnila.
+effect	1	Mati je potrebovala pomoč pri skrbi za svoje otroke.	Otroke je poslala v vrtec.	Odpovedala se je skrbništvu otrok.
+cause	1	Voznica je trobila.	Drugi avto je zapeljal na njen pas.	Pri semaforju je zavila desno.
+effect	2	Moški je hotel prihraniti denar.	Dvignil je denar s svojega varčevalnega računa.	Zmanjšal je neresne nakupe.
+cause	1	Obula sem čevlje.	Na tleh je bilo razbito steklo.	Barva na stenah je bila mokra.
+cause	1	Knjižničarka je poiskala knjigo v skladih.	Prosila sem za pomoč knjižničarke.	Knjiga je bila preverjena.
+cause	1	Mama je postala v ravni oči s sinom.	Počepnila je.	Držala ga je za roko.
+cause	2	Spakiral sem svoje stvari.	Iskala sem novo stanovanje.	Selila sem se iz stanovanja.
+cause	1	Fant je posnemal svojega starejšega brata.	Fant se je zgledoval po svojem starejšem bratu.	Fant se je boril s starejšim bratom.
+effect	2	Deklica je želela odobritev svojih staršev.	Pobegnila je od doma.	Ubogala je pravila svojih staršev.
+effect	1	Tovornjak je na mostu trčil v motor.	Motorist je umrl.	Most se je podrl.
+cause	1	Maloprodajna trgovina se je zaprla.	Njegova prodaja je zaostajala.	Podaljšalo je najemno pogodbo.
+effect	1	Plavalec je zmagal na tekmi.	Prejela je zlato medaljo.	Njena ekipa je izgubila srečanje.
+cause	1	Onesnaženost zraka v mestu se je poslabšala.	Tovarne so povečale proizvodnjo.	Tovarne zaprte.
+cause	1	Mati je grajala hčer.	Njena hči je rignila za kuhinjsko mizo.	Njena hči je postavila kuhinjsko mizo.
+cause	2	Opravičil sem se iz skupine.	Izklopil sem telefon.	Zazvonil mi je telefon.
+cause	2	Smučarki je spodrsnilo na strmini.	Odvrgla je smučarske palice.	Zadela je ob led.
+effect	1	Tisk na brošuri je bil majhen.	Moški si je nadel očala.	Moški je iz žepa potegnil pisalo.
+effect	2	Preklopil sem stikalo za luč gor in dol.	Svetloba je zbledela.	Svetloba je utripala.
+effect	2	Moškemu se je pokvarila ura.	Čakal je na avtobusni postaji.	Vprašal je tujca za čas.
+cause	2	Vojaki so bili skriti v grmičevju.	Oboroženi so bili s puškami.	Oblečeni so bili v maskirne uniforme.

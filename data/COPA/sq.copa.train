@@ -1,0 +1,400 @@
+cause	1	Trupi im bëri një hije mbi bar.	Dielli po lindte.	Bari u pre.
+cause	1	Gruaja e toleroi sjelljen e vështirë të shoqes së saj.	Gruaja e dinte se shoqja e saj po kalonte një kohë të vështirë.	Gruaja ndjeu se shoqja e saj përfitoi nga mirësia e saj.
+cause	2	Gratë u takuan për kafe.	Kafeneja u rihap në një vend të ri.	Ata donin të kapeshin me njëri-tjetrin.
+cause	1	Vrapuesi kishte veshur pantallona të shkurtra.	Parashikimi parashikonte temperatura të larta.	Ajo planifikoi të vraponte përgjatë plazhit.
+cause	1	Të ftuarit e festës u fshehën pas divanit.	Ishte një festë surprizë.	Ishte një festë ditëlindjeje.
+cause	2	Politikani humbi zgjedhjet.	Ai bëri reklama negative të fushatës.	Askush nuk e votoi për të.
+cause	2	Njolla doli nga këmisha.	E arnova këmishën.	E zbardha këmishën.
+cause	2	Burri mori një zbritje në sendet ushqimore të tij.	Ai e përshëndeti arkëtarin.	Ai përdori një kupon.
+effect	1	Mjeku e ka diagnostikuar gabim pacientin.	Pacienti ngriti një padi kundër mjekut.	Pacienti i zbuloi mjekut informacion konfidencial.
+cause	2	Klienti paraqiti një ankesë tek menaxheri i dyqanit.	Bashkëpunëtori i shitjes e ngarkoi më pak klientin.	Bashkëpunëtori i shitjeve u tregua i vrazhdë ndaj klientit.
+cause	1	Gruaja riparoi rubinetin e saj.	Rubineti kishte rrjedhje.	U mbyll rubineti.
+effect	2	E moshuara ka pësuar goditje në tru.	Vajza e gruas erdhi për të pastruar shtëpinë e saj.	Vajza e gruas u transferua për t'u kujdesur për të.
+effect	1	Pellgu ngriu për dimër.	Njerëzit bënin patina në pellg.	Njerëzit sollën varka në pellg.
+effect	1	Autori ka shkelur lirimin me kusht.	Ajo u kthye në burg.	Ajo vodhi para nga një kishë.
+effect	1	I derdha ujë shokut tim të fjetur.	Shoku im u zgjua.	Shoku im gërhiti.
+cause	1	Vajza gulçoi.	Shoqja e saj nguli një kub akulli në shpinë.	Shoku i saj i dha një përkëdhelje në shpinë.
+cause	2	Këmisha u tkur.	I derdha zbardhues.	E futa në tharëse.
+effect	2	Jashtë u errësua.	Flokët e borës filluan të binin nga qielli.	Hëna u bë e dukshme në qiell.
+cause	1	E mbylla telefonin.	Telefonuesi më tha lamtumirë.	Telefonuesi më identifikoi veten.
+effect	2	Unaza e gruas i rrëshqiti në dush.	Gruaja e lëmonte unazën.	Unaza zbriti në kanal.
+cause	1	Vajza mori një trofe.	Ajo fitoi një bletë drejtshkrimore.	Ajo bëri një mik të ri.
+effect	1	Takimi i gruas donte të dukej si një zotëri.	Ai hapi derën për të.	Ai e pyeti nëse i pëlqente sushi.
+effect	1	Toka bujqësore kishte nevojë për ujitje.	U ndërtua një kanal.	Ka ndodhur një përmbytje.
+cause	1	Pritësi e anuloi festën.	Ajo ishte e sigurt se kishte grip.	Ajo shqetësohej se do të kapte gripin.
+cause	1	Gruaja i dha burrit numrin e saj të telefonit.	Ajo ishte e tërhequr pas tij.	Ajo u zmbraps prej tij.
+cause	1	Parashutisti rrëshqiti i sigurt në tokë.	Ajo hapi parashutën e saj.	Ajo u hodh nga avioni.
+effect	1	Vogëlushi u bë i çuditshëm.	Nëna e saj e vuri për një sy gjumë.	Nëna e saj i rregulloi flokët në bisht.
+cause	2	Fëmija u bë imun ndaj sëmundjes.	Ai shmangu ekspozimin ndaj sëmundjes.	Ai mori vaksinën për sëmundjen.
+effect	1	Lëngu i rrushit u fermentua.	Lëngu u kthye në verë.	Lëngu u avullua.
+cause	2	Debati i miqve u zvarrit pafundësisht.	Shokët panë sy për sy.	Miqtë po çanin flokët.
+cause	2	Gruaja zhurmoi me vete.	Ajo ishte nervoze.	Ajo ishte në humor të mirë.
+effect	1	Burri e urrente prerjen e re të flokëve.	Ai mbante një kapele.	Ai bëri mjekër.
+effect	2	Policia drejtoi armët drejt të arratisurit.	I arratisuri ra në tokë.	I arratisuri hodhi armën.
+effect	2	Pacienti ishte i dehidratuar.	Infermierja testoi reflekset e tij.	Infermierja i dha një IV.
+effect	1	Vajza gjeti copën e enigmës që mungonte.	Ajo e plotësoi enigmën.	Ajo hoqi enigmën.
+cause	1	Burri u hodh urgjentisht nga shtrati.	Ai donte të fikte orën e ziles.	Ai donte të hekuroste pantallonat para punës.
+effect	2	Gazetat ishin të çorganizuara.	Kam bërë fotokopje të tyre.	I vendosa sipas rendit alfabetik.
+effect	1	Gruaja fitoi lotarinë.	Ajo bleu një jaht.	Ajo u bashkua me një kishë.
+effect	2	Rrobaqepja e shtyu gjilpërën me fije në pëlhurë.	Fije e mbështjellë rreth gjilpërës.	Fija kaloi nëpër pëlhurë.
+cause	1	Gruaja punësoi një avokat.	Ajo vendosi të padisë punëdhënësin e saj.	Ajo vendosi të kandidojë për postin.
+effect	1	Qiramarrësi i vendosi gabim çelësat e banesës së tij.	Pronari i tij hapi derën.	Pronari i tij riparoi derën.
+effect	2	Kënga ime e preferuar erdhi në radio.	I mbulova veshët.	I këndova së bashku.
+cause	1	Ekzekutivi vendosi të mos punësojë aplikantin.	Aplikanti dështoi në një kontroll të historikut.	Aplikanti kishte përvojë për këtë punë.
+effect	1	Syri i burrit u infektua.	Ai u verbua.	Ai vuri syze.
+cause	2	Zogu nuk mund të fluturonte.	Ai migroi për dimër.	I ka lënduar krahun.
+cause	2	Vajza bëri një dëshirë.	Ajo pa një mace të zezë.	Ajo pa një yll që xhiron.
+effect	1	Gruaja u drodh kur doli nga pishina.	Ajo u mbështoll me një peshqir.	Ajo i derdhi vetes pak limonadë.
+effect	2	Infermierja përgatiti gjilpërën për injeksionin e pacientit.	Pacienti u gjakos.	Pacienti u tensionua.
+cause	2	Burri e hodhi bukën.	Ishte i freskët.	Ishte bajate.
+cause	1	Fëmijët rrëzuan një llambë.	Ata patën një përleshje me jastëk.	Ata u hodhën në shtrat.
+cause	1	Piva nga burimi i ujit.	kisha etje.	Ndjeva të përziera.
+effect	1	Pronarët e shtëpive nuk i pëlqenin fqinjët e tyre të zhurmshëm.	Ata ndërtuan një gardh rreth pronës së tyre.	Ata organizuan një barbeque në oborrin e shtëpisë së tyre.
+effect	2	Bodybuilderi ngriti pesha.	Palestra u mbyll.	Muskujt e saj u lodhën.
+effect	2	Kuzhinieri i trazoi përbërësit në enë.	Përbërësit u shkrinë.	Përbërësit janë përzier së bashku.
+effect	2	Burri nënshkroi dokumentin.	Transaksioni u anulua.	Transaksioni u bë zyrtar.
+effect	2	Oficeri i policisë hodhi armën.	Arma u tërhoq.	Arma shkoi.
+effect	1	Gruaja u ndje e detyruar të ndihmonte dikë në nevojë.	Ajo dhuroi gjak.	Ajo shkroi një poezi.
+effect	2	Gruaja ndihej e vetmuar.	Ajo rinovoi kuzhinën e saj.	Ajo adoptoi një mace.
+effect	1	Unë fërkoja letër zmerile në dru.	Druri u bë i lëmuar.	Druri u bë ngjitës.
+effect	2	Turma i dha grupit një ovacion të vazhdueshëm.	Banda nënshkroi autografe.	Grupi u rishfaq në skenë.
+effect	2	Burri hodhi kanaçen e tij të zbrazët në rrugë.	Ai u hodh nga pas.	Ai u gjobit për hedhjen e mbeturinave.
+cause	1	Më rënkoi barku.	Kam harruar të ha mëngjes.	Isha ngopur nga mëngjesi.
+effect	2	Varkatarët nisën një flakë.	Varka e tyre u largua në breg.	Varka e tyre u shpëtua.
+cause	1	Burri hoqi pallton.	Ai hyri në shtëpi.	Ai e liroi kravatën.
+cause	2	Familja e çoi qenin e tyre te veterineri.	Qeni përtypi një kockë.	Qeni plagosi putrën e tij.
+effect	1	Gruaja vari biskotën sipër qenit.	Qeni u hodh lart.	Qeni gërvishti gëzofin.
+cause	1	Mësova si të luaja lojën e tavolinës.	Shoku im më shpjegoi rregullat.	Shoku im i ka gabuar rregullat.
+cause	1	Burri u largua për fundjavë.	Ai donte të pushonte.	Ai u ndje i kënaqur.
+cause	2	Dyqani ishte i mbyllur.	Pronari po ndihmonte klientët.	Dyqani ishte duke u rinovuar.
+cause	2	Djali akordoi radion.	Stacioni po luante muzikë rock.	Stacioni po hynte me statike.
+effect	1	Terroristi vendosi bombën.	Bomba shpërtheu.	Bomba u çaktivizua.
+cause	2	Policia ka vënë në pranga të dyshuarin.	Policia bëri thirrje për rezervë.	I dyshuari i ka rezistuar arrestimit.
+effect	2	Autoritetet u zotuan të mbrojnë identitetin e viktimës së krimit.	Viktima u përpoq të kujtonte detaje rreth krimit.	Ata fshehën emrin e viktimës për publikun.
+cause	2	Rrobat e burrit përshtaten lirshëm.	Ai i bleu ato në shitje.	Ai humbi peshë.
+effect	2	Ora ndaloi së rrahuri.	Mora kohë shtesë për t'u përgatitur.	Ora tregoi kohën e gabuar.
+cause	2	Burri mbylli ombrellën.	Ai doli nga makina.	Ai iu afrua ndërtesës.
+cause	2	Burri dëshironte një cigare.	Familja e tij e nxiti atë të linte duhanin.	Ai ishte i varur nga nikotina.
+effect	2	Burri hodhi ushqimin në dysheme.	Qeni i tij u hodh mbi të.	Qeni i tij vrapoi për të ngrënë ushqimin.
+effect	1	Vajza ishte e zemëruar me shoqen e saj.	Vajza përhapi një thashetheme për shoqen e saj.	Vajza i tha një sekret shokut të saj.
+effect	2	I arratisuri u fsheh nga policia.	Policia e pushoi çështjen.	I arratisuri mbeti i lirë.
+effect	2	E lashë shishen.	Lëngu në shishe ngriu.	Lëngu në shishe u derdh jashtë.
+cause	2	Gruaja foli me një theks të huaj.	Ajo vinte nga një familje e pasur.	Ajo ka emigruar nga një vend tjetër.
+cause	1	Djalit i thumbi goja.	Ai hëngri një piper.	Fikei qiriun.
+effect	2	Përfundova një faqe të librit.	E hoqa faqen tjetër.	U ktheva në faqen tjetër.
+cause	2	Shërbimi në restorant ishte i ngadaltë.	Kishte shumë tavolina bosh.	Restoranti ishte i mbushur me njerëz.
+effect	1	Pashë një grua duke u grabitur në rrugë.	Telefonova 911.	Unë përshëndeta një taksi.
+cause	2	Më dhemb barku.	Unë vrapova në rutine.	Unë hëngra tortë ditëlindjeje.
+cause	1	E futa pjatën në lavaman.	Unë mbarova së ngrëni.	E lashë darkën.
+cause	1	Burri e mbylli librin.	Ai mbaroi së lexuari.	E nxiti të mendonte.
+cause	2	Djali ia lexoi romanin me zë gjyshit.	Gjyshi i tij ishte i shurdhër.	Gjyshi i tij ishte i verbër.
+effect	2	Këmba më mpihej.	I vesha këpucët.	Unë tunda këmbën.
+effect	1	Fotografi e bëri fëmijën të buzëqeshte.	Fotografi shkrepi shpejt foton e fëmijës.	Fotografi ndryshoi shpejt pozën e fëmijës.
+cause	1	Dritarja ishte e errët.	Xhami ishte i njollosur.	Blindat ishin të hapura.
+cause	1	Rrëshqita në dysheme.	Pllaka ishte e lagur.	Pllaka ishte plasaritur.
+effect	2	Burri rrëshqiti briskun nëpër mjekër.	Kallamishtet e tij u rritën.	Kashtjellat e tij u zhdukën.
+cause	2	Gruaja mori familjen e saj me pushime.	Burri i saj u pushua nga puna.	Ajo mori një bonus rroge.
+cause	2	Gruaja u zgjua.	Ajo mori pilula gjumi.	Burri i saj gërhiste.
+effect	2	Gruaja ndjeu një erë të këndshme.	Ajo u kujtua të merrte ilaçet e saj.	Asaj iu kujtua fëmijëria.
+cause	2	Lokali u mbyll.	Ishte e mbushur me njerëz.	Ishte ora 3 e mëngjesit.
+cause	2	Shoferi u kap nga policia.	Ai po parkonte.	Ai ishte me shpejtësi.
+effect	1	Mësuesi mori një rrotull.	Ajo identifikoi studentët që mungonin.	Ajo u dha studentëve të saj një kuiz pop.
+effect	2	E shtyva lavjerrësin.	U ngadalësua në një ndalesë.	U lëkund përpara dhe mbrapa.
+effect	2	Fëmija goditi pirgun e blloqeve.	Pirgu ngrihej mbi kokën e djalit.	Blloqet u shpërndanë në të gjithë qilimin.
+cause	2	Adoleshenti ka ikur nga shtëpia.	Ai u mbështet tek prindërit e tij.	Prindërit e abuzuan me të.
+cause	1	E dështova intervistën e punës.	Intervistuesi bëri pyetje të vështira.	I prita pyetjet e intervistuesit.
+cause	1	Kompania farmaceutike tërhoqi ilaçin.	Përdoruesit raportuan efekte anësore të rrezikshme.	Përdoruesit morën rimbushje në recetat e tyre.
+effect	2	Burri shikoi orën e tij.	E kuptoi se kishte harruar diçka.	E kuptoi se ishte herët.
+cause	1	E lava dyshemenë me një peshqir letre.	E derdha lëngun në dysheme.	Dyshemeja ishte e njollosur përgjithmonë.
+cause	2	Baristi nuk pranoi t'i shërbente klientit.	Mbrojtësi ishte vetëm.	Mbrojtësi ishte i dehur.
+effect	2	U hutova nga ligjërata e profesorit.	I kushtova vëmendje profesorit.	I bëra pyetje profesorit.
+effect	1	Libri u konsiderua i papërshtatshëm për fëmijët.	Shkollat e ndaluan atë nga bibliotekat e saj.	Mësuesit kërkonin që studentët ta lexonin atë.
+effect	1	Burri u lut për falje.	Gruaja i erdhi keq.	Gruaja bëri shaka me të.
+effect	1	Mora një paketë me postë.	Pakoja nxiti kureshtjen time.	E çova paketën në postë.
+effect	1	Surfisti e kapi dallgën.	Vala e çoi në breg.	Ajo hodhi dërrasën e saj në oqean.
+effect	2	Folësja çarmatosi kundërshtarin e saj në debat.	Folësja e uroi kundërshtarin e saj.	Folësi fitoi debatin.
+cause	1	U transferova në një qytet të ri.	Gjeta një punë më të paguar.	Lindi djali im.
+cause	1	E shmanga përgjigjen e drejtpërdrejtë të pyetjes.	Pyetja më bëri të pakëndshme.	Doja të isha i sinqertë.
+cause	1	Studenti u ndalua.	Ai foli përsëri me mësuesin.	Mësuesi vlerësoi detyrën e tij të shtëpisë.
+cause	1	Djalit i dridheshin duart.	Ai planifikoi ta kërkonte vajzën të dilte.	Pëllëmbët e tij ishin të ftohta dhe të djersitura.
+cause	2	Tifozët në stadium brohoritën.	Ndeshja përfundoi në barazim.	Lojtari shënoi.
+effect	2	Vajza zbriti nga kodra me biçikletë.	Biçikleta e saj u përmbys.	Biçikleta e saj u shpejtua.
+effect	1	Një burrë preu para meje në rreshtin e gjatë.	Unë u përballa me të.	I buzëqesha atij.
+cause	1	Pjesa e brendshme e trenit u errësua.	Treni udhëtoi përmes një tuneli.	Treni doli nga shinat.
+effect	1	Burri mendoi për pikturën.	Ai u ndje në frikë.	Ai u rrëzua.
+cause	2	Breshka u fsheh në guaskën e saj.	Ajo hëngri një peshk.	Ai zbuloi një grabitqar.
+cause	2	Vajza ia dorëzoi rrobat motrës së saj më të vogël.	Rrobat ishin të copëtuara.	Ajo i rriti rrobat.
+effect	2	Kundër të dyshuarit dëshmuan disa dëshmitarë të krimit.	I dyshuari u shpall i pafajshëm.	I dyshuari ishte dënuar.
+cause	2	Prindërit i lanë fëmijët e tyre me një dado.	Fëmija i tyre më i vogël filloi të ndiqte shkollën parashkollore.	Ata bënë plane për të festuar përvjetorin e tyre.
+cause	2	Udhëtimi zgjati shumë.	Shoferi foli gjatë gjithë rrugës.	Shoferi bëri një kthesë të gabuar.
+effect	1	Produkti u reklamua shumë.	Konsumatorët e njohën produktin.	Produkti u bë i vjetëruar.
+effect	1	E fërkoja sapunin mes duarve.	Sapuni shkumoi.	Duart m'u mpirën.
+effect	1	Vajzën e kaubës e hodhi lasin e saj drejt kalit.	Lasso kapi kalin.	Kali u fut në hambar.
+effect	1	Grupi e anashkaloi faljen e gruas.	Gruaja u lehtësua.	Gruaja kërkoi falje.
+effect	1	Vajza hasi në një fjalë të panjohur në librin e saj shkollor.	Ajo e kërkoi termin në fjalor.	Ajo e përplasi tekstin nëpër dhomë.
+effect	1	Burri u bë i paaftë.	Familja e tij i ofroi mbështetje financiare.	Familja e tij ndërpreu kontaktin me të.
+effect	2	Elektrik dore ishte i vdekur.	E shkëputa.	I ndërrova bateritë.
+effect	1	Skunku spërkati qenin.	Qeni lëshoi një erë të keqe.	Skunku endej nëpër pyll.
+effect	1	E gërvishta lëkurën.	Më iku kruajtja.	mbresa ime u zbeh.
+cause	2	I shkrova një falënderim gjyshes sime.	Ajo u bë harruese.	Ajo më dërgoi një dhuratë.
+effect	2	Një hajdut hyri në shtëpi.	Të zotët e shtëpisë ishin në gjumë.	Alarmi i sigurisë ra.
+effect	2	E mbajta derën për gruan që hynte pas meje.	Dera u mbyll.	Gruaja më falënderoi.
+effect	1	Pasqyra në banjë u mjegullua.	Vajza ndezi tifozin.	Vajza aplikoi grimin e saj.
+cause	2	Roja e sigurisë e kapi burrin.	Burri zgjati dorën në xhepin e tij.	Burri shfaqi një armë.
+effect	2	Shoferi rrotulloi timonin.	Makina u ndal.	Makina u kthye.
+cause	1	Ushtria e dorëzoi betejën.	Ata ishin më të shumtë në numër.	Ata sulmuan qytetin.
+effect	2	Marina bombardoi anijen.	Anija u përplas në skelë.	Mbetjet e anijes u fundosën në det.
+cause	2	E hekurosa këmishën.	Ishte i pastër.	Ishte e rrudhur.
+effect	1	Vajza ndihej e trullosur.	Ajo humbi ekuilibrin.	Ajo bëri streçe.
+cause	2	Shoferi u tërhoq në anë të rrugës.	Ai kaloi nëpër një kryqëzim.	Ai vuri re një automjet të bllokuar.
+cause	1	Spitali e dërgoi pacientin në shtëpi.	Simptomat e pacientit u pastruan.	Familja e pacientit e vizitoi atë.
+cause	1	Fëmija u kap nga një sëmundje kërcënuese për jetën.	Ajo nuk u vaksinua.	Ajo u adoptua.
+effect	2	Gjetëm vende bosh në teatër.	Filloi filmi.	U ulëm.
+effect	2	Prindërit e dalluan krijimtarinë e vajzës së tyre.	Ata e mësuan atë se si të ngasë një biçikletë.	Ata e inkurajuan atë të bëhej artiste.
+effect	2	Djali ktheu kapakun në kavanoz.	Kavanozi u ngroh.	Kapaku u hoq.
+cause	2	Gruaja mori një diplomë.	Ajo u regjistrua në fakultet.	Ajo u diplomua nga kolegji.
+cause	2	Mora shtambën me ujë.	Unë u ngjita lart.	Kam vrapuar pesë milje.
+effect	1	Kam hasur në një pellg në trotuar.	U hodha mbi pellg.	Kam luajtur në pellg.
+cause	1	Gruaja mbuloi veshët.	Alarmi i zjarrit ra.	Gruaja ndjeu erë tymi.
+effect	1	Arkeologu gërmoi vendin.	Ajo gërmoi objekte të lashta.	Ajo lexoi për historinë e faqes.
+cause	1	Publiku e ka tundur komedianin nga skena.	Ai tha një shaka raciste.	Ai argëtoi publikun.
+cause	2	Trajneri i dha lojtarit të tij një pesë të lartë.	Lojtari mori një penallti.	Lojtari shënoi një pikë.
+effect	2	E hodha topin lart.	Topi u rrotullua në tokë.	Topi goditi tavanin.
+effect	2	Fryma më vinte erë hudhre.	fshiva gojën.	I lava dhëmbët.
+effect	1	Burri ishte i humbur.	Ai kërkoi udhëzime.	Ai vizatoi një hartë.
+effect	2	Fëmija tërhoqi flokët e nënës.	Foshnja gromiste.	Nëna u grimas.
+effect	1	Unë qëndrova në njërën këmbë.	Bilanci im u lëkund.	Unë u gjunjëzova.
+effect	1	Shtyva pedalin e gazit.	Makina nxitoi.	Dera e makinës u hap.
+cause	1	Makina ime u tërhoq.	Kam parkuar ilegalisht.	E hodha baterinë.
+cause	2	Gruaja u largua nga krimi.	Bashkëpunëtori i saj u kap.	Ajo shkatërroi provat.
+cause	1	Pluhuri doli nga tavolina.	E fshiva tavolinën me një leckë.	I hoqa librat nga tavolina.
+effect	2	Motoçiklisti ktheu mbytjen.	Motoçikleta është ndalur.	Motoçikleta ka qëlluar përpara.
+effect	2	Mësuesi e kapi nxënësin duke përtypur çamçakëz.	Çamçakëzi u ngjit në këpucën e studentit.	Nxënësi pështyu çamçakëzin.
+effect	1	Pritësi u shtroi darkë mysafirëve të tij.	Të ftuarit e tij ishin të sjellshëm.	Mysafirët e tij mbetën të uritur.
+cause	1	Djali u ngjit në pemë.	Një mace u mbërthye në pemë.	Një zog ndërtoi një fole në pemë.
+cause	2	Karrigia kërciti.	Burri e çoi karrigen në zyrën e tij.	Burri e afroi karrigen më pranë tavolinës së tij.
+cause	1	Babai mbylli televizorin e fëmijëve.	Ishte koha e gjumit për fëmijët.	Fëmijët shikonin filma vizatimorë.
+cause	1	Burri mbajti frymën.	Ai shkoi nën ujë.	Ai shkeli ujin.
+effect	2	U përplasa në mënyrë të ngathët me të huajin.	Unë ika.	I kërkova falje.
+cause	2	Varka u përmbys.	Kapiteni ngriti vela.	U kap nga një uragan.
+cause	2	Nëna dyshonte se djali i saj gënjen.	Ai nuk pranoi të fliste me të.	Ai shmangte kontaktin me sy me të.
+cause	2	Gruas së re iu refuzua hyrja në lokal.	Shokët e saj e ngritën në këmbë.	Ajo ka harruar letërnjoftimin e saj.
+cause	2	Një krater u formua në hënë.	Një kometë kaloi pranë Hënës.	Një kometë u përplas me hënën.
+effect	2	I mbolla farat në tokë.	Unë ujita tokën.	Farat mbinë.
+cause	1	Bamirësi kërkoi të qëndronte anonim.	Ai donte të ruante privatësinë e tij.	Ai mbështeti kauzën pas donacionit të tij.
+effect	2	Gruaja ndjeu turp nga plaga në fytyrë.	Ajo ua shpjegoi plagën të huajve.	Ajo e fshehu plagën me grim.
+effect	1	Mjeku i bëri rreze X krahut të pacientit.	Ai zbuloi se pacientit i ishte thyer krahu.	Ai i vuri krahun pacientit në një gips.
+cause	2	Djali e mbushi kovën me rërë.	Ai po mblidhte guaska në rërë.	Ai po ndërtonte një kështjellë me rërë.
+effect	2	Gruaja përmirësoi harduerin e saj të kompjuterit.	Ajo fshiu skedarët e vjetër në kompjuter.	Ajo instaloi softuer të ri në kompjuter.
+effect	2	Vajza performoi në një recital kërcimi.	Prindërit i treguan se si të kërcente.	Prindërit e saj erdhën për të parë recitalin.
+effect	1	Fëmija po qante në krevatin e tij.	Nëna e mori fëmijën.	Fëmija u zvarrit te nëna.
+effect	1	Gruaja pati një zgjim fetar.	Ajo filloi të shkonte në kishë.	Ajo filloi të udhëtonte jashtë vendit.
+effect	1	Sirtarët e byrosë ishin rrëmujë.	I hodha përmbajtjet e panevojshme.	I mbylla sirtarët me kyç.
+cause	1	Studenti ua tregoi notën e testit shokëve të tij të klasës.	Ai mori një rezultat perfekt.	Ai shtiret se interesohet për klasën.
+cause	1	Djalit e ndjeu malli.	Ai shkoi në kamp.	Ai u grind me motrën e tij.
+cause	1	Raketa fluturoi lart në qiell.	Vajza e nisi atë.	Vajza e projektoi atë.
+effect	2	Djali mërmëriti përgjigjen e tij ndaj nënës së tij.	Nëna e tij i tha të pëshpëriste.	Nëna e tij i tha të fliste.
+cause	1	Fluturimi im u vonua.	Në zonë u panë tornado.	Më mbajtën në sigurimin e aeroportit.
+cause	2	Alarmi i tymit ra.	Kam ndezur një qiri.	E kam djegur darkën.
+effect	2	Vazo u thye.	E kam shabllon.	E ngjita përsëri së bashku.
+cause	1	Gruaja ndjeu një goditje elektrike.	Ajo kapi dorezën e derës.	Ajo goditi derën.
+cause	1	Burri kishte buzëkuq në faqe.	Gruaja e puthi.	Gruaja e bëri të skuqej.
+cause	1	U hodha instinktivisht nga frika.	Ndjeva dikë që më afrohej nga pas.	Dëgjova njerëz që qeshnin në dhomën ngjitur.
+effect	2	Kopshtari donte që bimët e tij të lulëzonin.	Ai mbolli një shumëllojshmëri farash.	Ai vendosi pleh në tokë.
+cause	2	Një tub uji në shtëpi shpërtheu.	Uji ishte josanitar.	Tubi ngriu.
+effect	1	Rripi i belit në pantallonat e mia ishte i lirë.	Vura një rrip.	Vura një kapelë.
+cause	2	Kompania humbi para.	Produktet e saj morën vlerësime pozitive nga konsumatorët.	Disa nga produktet e saj janë prodhuar me defekt.
+cause	1	Qiramarrësit u dëbuan nga banesa.	Ata neglizhuan të paguanin qiranë e tyre.	Ata shkuan mirë me pronarin e tyre.
+effect	2	Burri u zgjua me një dhimbje dhëmbi.	Ai humbi një takim me dentistin.	Ai la një takim me dentistin.
+cause	1	Skuadra e humbi ndeshjen.	Lojtari i tyre më i mirë u lëndua.	Trajneri i tyre i nxiti.
+cause	1	Prindërit i ndaluan fëmijët e tyre të shikonin filmin.	Filmi u vlerësua me R.	Filmi ishte i animuar.
+cause	1	Gruaja e fshiu emailin.	Dërguesi u përpoq të kërkonte para prej saj.	Dërguesi kërkoi një përgjigje prej saj.
+cause	2	Policia e ka eliminuar gruan nga lista e të dyshuarve.	Policia e mori në pyetje.	Alibia e saj u kontrollua.
+effect	2	Alpinistët arritën në majën e malit.	Ata hasën në një ortek.	Ata uruan njëri-tjetrin.
+effect	1	Vandalët hodhën një gur në dritare.	Dritarja u plas.	Dritarja u mjegullua.
+effect	1	Zbulimet e fallxhores ishin bindëse.	Ajo priti shumë klientë që ktheheshin.	Shumë klientë kërkuan rimbursim.
+cause	2	Grim i gruas lyhet.	Ajo lau flokët.	Ajo fshiu sytë.
+effect	1	Fitimet e kompanisë filluan të ulen.	Ajo rriti përpjekjet e saj të marketingut për produkte të reja.	Ajo e zhvendosi selinë e saj në një vendndodhje periferike.
+effect	2	Përgjigja e studentit në provim ishte e pasaktë.	Mësuesi i shtoi pikë bonus notës së nxënësit.	Mësuesi zbriti pikë nga nota e nxënësit.
+effect	2	Vajza donte të demonstronte etiketën e duhur.	Ajo hodhi pecetën e saj pasi kishte ngrënë.	Ajo vuri pecetën e saj në prehër para se të hante.
+effect	2	Detektivi ia dha distinktivin e tij oficerit të policisë.	Oficeri i policisë konfiskoi distinktivin e detektivit.	Oficeri i policisë ka lënë detektivin të hyjë në vendin e krimit.
+effect	2	Vajza donte të bënte të lumtur nënën e saj.	Vajza hëngri biskotat që kishte pjekur nëna e saj.	Vajza zgjodhi një lule për nënën e saj.
+effect	2	Vogëlushi filloi të qajë.	Prindërit ia morën lodrën.	Prindërit i dhanë një lodër.
+effect	1	I huaji më bërtiti në një gjuhë të huaj.	Vështrova bosh në të.	U ndala për të biseduar me të.
+effect	2	Burri zbuloi prova inkriminuese kundër armikut të tij.	Burri iu shmang armikut të tij.	Burri shantazhoi armikun e tij.
+effect	1	Vajza e shtyu veten nga maja e rrëshqitjes.	Ajo rrëshqiti poshtë rrëshqitjes.	Ajo u zvarrit në rrëshqitje.
+cause	2	Më ra nofulla e hapur.	Unë isha i pakënaqur.	Unë u trondita.
+effect	2	Fëmija nuk iu bind prindërve të saj.	Prindërit e saj e përqafuan.	Prindërit e dënuan.
+effect	1	Makina dukej e ndyrë.	Pronari e çoi në lavazh.	Pronari e mori atë për një bojë.
+effect	2	Miku im pagoi biletën time.	Kërkova një rimbursim.	Unë ia ktheva.
+cause	2	Gruaja u dënua gabimisht për krimin.	Juria ishte e drejtë.	Ajo ishte në kornizë.
+effect	1	Vajza aplikoi gërshërët në letër.	Letra u nda.	Letra u rrudh.
+cause	2	Gruaja vizitoi familjen e saj.	Ajo nuk u besonte atyre.	Asaj i mungonin.
+effect	2	Unë shpërtheva në të qeshura.	Dhëmbët e mi filluan të kërcasin.	Sytë m'u mbushën me lot.
+effect	1	Drejtori i shkollës zbatoi një kod veshjeje.	Studentët protestuan kundër vendimit.	Nxënësit u përjashtuan nga shkolla.
+cause	1	Baloni u zgjerua.	Unë fryva në të.	E shpova.
+effect	2	Doja të lehtësoja humorin e bisedës.	Unë qëndrova i heshtur.	I thashë një shaka.
+cause	2	Burri theu gishtin e këmbës.	Ai mori një vrimë në çorapin e tij.	I ra një çekiç në këmbë.
+effect	2	Burri kishte një sulm të ndërgjegjes.	Ai manipuloi mikun e tij.	Ai e pranoi mospërfilljen e tij.
+effect	1	Në sallën e shkollës ka shpërthyer një sherr me grushte.	Drejtoresha pezulloi nxënësit e përfshirë.	Drejtori i ndërpreu mësimet për ditën.
+cause	1	Albumet e fotografive mblodhën pluhur në papafingo.	Ata mbetën të paprekur për vite me radhë.	Familja ka kujtuar fotot.
+cause	1	U hutova nga biseda ime me gruan.	Të gjithë në dhomë po flisnin.	Gruaja po tregonte një histori qesharake.
+effect	1	Vendosa monedha në lavatriçe në lavanderi.	Makina u ndez.	Më mbaroi detergjenti për larjen e rrobave.
+cause	1	Familja e shtyu barbequen.	Parashikimi bëri thirrje për stuhi.	Ishte një fundjavë pushimi.
+cause	2	Ajri rrjedh nga topi i plazhit.	Ishte fryrë.	Kishte një vrimë në të.
+effect	1	Biseda e grupit tonë gradualisht pushoi në heshtje.	U ndjeva në siklet.	u tërbova.
+effect	1	E shtrëngova mbështjellësin e karamele në grusht.	Mbështjellësi u rrudh.	Mbështjellësi u gris.
+effect	1	Gruaja shtypi tastin e pianos.	Një tingull u luajt.	Çelësi u mbërthye.
+effect	2	Vajza takoi aktorin e saj të preferuar.	Ajo shkoi për të parë filmin e tij të ri.	Ajo i kërkoi atij autograf.
+cause	2	Automjetet udhëtuan ngadalë.	Ishte me re.	Ishte me mjegull.
+cause	1	Llambadari u thye në dysheme.	Llambadari ra nga tavani.	Dritat e llambadarit ndizeshin e fikën.
+cause	2	Macja bërtiti.	Më gërvishti.	E përkëdhela.
+effect	1	Djali e shtyu motrën.	Motra e tij u përfol me të.	Ata luanin fshehurazi.
+effect	1	Burri shtoi në peshë.	Ai e ndryshoi kostumin e tij.	Ai i shkëlqeu këpucët.
+effect	2	Retë dukeshin të errëta.	E solla laptopin në punë.	Unë solla ombrellën time në punë.
+effect	1	Motori i aeroplanit ishte me defekt.	Aeroplani u rrëzua.	Piloti bëri një gabim.
+cause	2	Makinat u zhvendosën në supe të rrugës.	Semafori u bë i gjelbër.	U afrua një ambulancë që bërtiste.
+cause	1	Djali humbi sapunin.	Lokali ishte i rrëshqitshëm.	Lokali lëshonte një aromë.
+effect	1	Më ra butoni i këmishës.	E qepa përsëri butonin.	E ngjita përsëri butonin.
+cause	2	I famshëm mbante syze dielli.	Ajo ka dashur të falënderojë fansat e saj.	Ajo donte të shmangte njohjen.
+effect	1	Gjyshja ime ka ndërruar jetë.	Familja ime mbajti një funeral.	Familja ime mbajti një ribashkim.
+effect	1	Oficeri i policisë tërhoqi personazhin e famshëm.	I famshëm i ofroi oficerit një ryshfet.	E famshmja paditi oficerin e policisë.
+cause	1	Burri zbuloi informacione personale te terapisti.	Ai i besoi terapistit.	Ai nuk u pajtua me terapistin.
+cause	1	Burri ra pa ndjenja.	Sulmuesi e ka goditur burrin në kokë.	Sulmuesi i mori portofolin burrit.
+cause	2	Iu afrova burrit.	Ai dukej i zënë.	Ai dukej i njohur.
+cause	1	Udhëheqësi mori lëvdata.	Ai luftoi varfërinë.	Ai rriti taksat.
+effect	2	Burri lexoi karikaturën në gazetë.	Ai piu kafe.	Ai qeshi.
+cause	2	Kutia ime postare ishte e mbushur plot me letra.	Kapaku i kutisë postare u prish.	Unë shkova me pushime për dy javë.
+effect	2	Bananet janë pjekur.	I shtrydhëm.	Ne i hëngrëm.
+effect	2	Kuzhinieri e shtypi brumin.	Brumi u shkërmoq.	Brumi u rrafshua.
+cause	2	Balta u ngurtësua.	Poçari e rrotulloi argjilën në një top.	Poçari e futi argjilën në furrë.
+cause	1	Këmbët e mia ishin flluska.	Unë shkova në shëtitje.	Unë shkova për të notuar.
+effect	2	Gruaja tradhtoi shoqen e saj.	Shoku i saj i dërgoi një kartolinë urimi.	Shoku i saj ndërpreu kontaktin me të.
+cause	1	Burri e vuri re gruan.	Ai kapi një nuhatje të parfumit të saj.	Ai e kishte kthyer shpinën nga ajo.
+effect	1	Gruaja dhe i dashuri i saj janë përleshur.	Ata ndaluan së paku njëri-tjetrin.	Ata planifikuan një pushim së bashku.
+effect	2	Ngacmuesi nxori këmbën përpara shokut të klasës.	Ngacmuesi mori shokun e tij të klasës.	Shoku i klasës i ngacmuesit u ndal.
+effect	1	Burri donte të hakmerrej ndaj armikut të tij.	Burri e inkuadroi armikun e tij për një krim.	Burri shpalli një armëpushim me armikun e tij.
+effect	1	Piva një filxhan kafe.	Gjuajtja ime pushoi.	Unë tunda kokën për të fjetur.
+cause	2	Gruaja u ngatërrua me motrën e saj.	Gruaja ishte e afërt me motrën e saj.	Gruaja dukej si motra e saj.
+cause	2	Burri bëri një gabim në llogaritjet e tij.	Ai kontrolloi punën e tij.	Puna e tij ishte e nxituar.
+cause	2	Syzet e gruas u mjegulluan.	Ajo u shtri pranë pishinës.	Ajo hyri në saunë.
+effect	1	Blerësi pyeti veten për koston e artikullit.	Ai kontrolloi çmimin e tij.	Ai vendosi ta blinte.
+cause	2	Drejtuesi i emisionit trivia i bëri thirrje konkurrentit për një përgjigje.	Garuesi ishte në krye.	Konkurrenti i ra ziles.
+cause	2	Djali kishte frikë të shkonte në shtrat.	Ai ndezi dritën e natës.	Ai pa një film horror.
+effect	2	Gruaja donte të bëhej mjeke.	Ajo vizitoi spitalin.	Ajo shkoi në shkollën e mjekësisë.
+effect	2	Djali e pa të mërzitshëm shfaqjen televizive.	Ai e regjistroi atë.	E mbylli.
+effect	2	Vajza ime pësoi një sulm alergjie.	E inkurajova të merrte frymë thellë.	E çova në urgjencë.
+effect	2	Djali kishte probleme me kopset e këmishës.	Ai refuzoi të vishte këmishën.	Ai i kërkoi ndihmë nënës së tij.
+cause	2	Unë pështyj çamçakëzin.	I fryva një flluskë me çamçakëz.	Çamçakëzi humbi shijen e tij.
+effect	1	Djali pikturoi një fotografi për nënën e tij.	Nëna e tij e vari foton në mur.	Nëna e tij e shiti foton në një galeri.
+effect	2	Konkursi përfundoi.	Ekipet u grumbulluan.	Ekipet shtrënguan duart.
+cause	1	Vajza e refuzoi me mirësjellje hamburgerin.	Ajo ishte një vegjetariane.	I pëlqente ushqimi i shpejtë.
+effect	1	E fshiva njollën në dysheme.	E hoqa qafe njollën.	Kam marrë papastërti në dysheme.
+effect	2	Dokumentet përmbanin informacione të rëndësishme.	I kam prerë letra së bashku.	I mbaja në një vend të sigurt.
+cause	1	Veza u spërkat.	E hodha.	e kam zier.
+effect	2	Vajza e shtyu shoqen e saj.	Shoqja e saj u mbyt.	Shoqja e saj ra përmbys.
+effect	1	Një grup adoleshentësh rrëzuan festën.	Mikpritësi i festës i nxori jashtë.	Pritësi i festës i ftoi brenda.
+cause	1	Burri bëri një dush.	Ai ishte i djersitur nga stërvitja.	Ai hapi një sapun të ri.
+cause	2	Ekrani i laptopit u nxi.	Garancia e laptopit ka skaduar.	Bateria e laptopit u shua.
+effect	1	Libri u bë një bestseller i madh.	Ai u përshtat në një film.	Autori u zbeh në errësirë.
+cause	1	Burri u ndje mirënjohës që ishte gjallë.	Ai u shërua nga kanceri.	Gruaja e tij u diagnostikua me kancer.
+cause	2	Gruaja i shkroi një çek kompanisë së gazit.	Ajo preferoi të paguante me para në dorë.	Ajo mori faturën e saj mujore.
+cause	1	Gruaja ndjeu hezitim për të ndryshuar karrierën.	Ajo fitoi shumë para në profesionin e saj aktual.	Ajo ka duruar shumë stres në profesionin e saj aktual.
+cause	2	Gruaja ka vendosur masën e ndalimit ndaj burrit.	Burri e thirri atë.	Burri e përndiqte.
+effect	2	Batica e oqeanit ishte e rrezikshme.	Notarët vendosin më shumë krem kundër diellit.	Notarët u kthyen drejt bregut.
+cause	1	Gruaja refuzoi një birrë të dytë.	Ajo ishte shoferja e caktuar për natën.	Ajo ishte e njohur me banakierin.
+cause	1	Më mbeti pa frymë.	Kam ngjitur disa shkallë.	Kam lexuar disa kapituj të librit.
+effect	1	Gruaja u cilësua e sëmurë mendore.	Ajo u dërgua në një institucion psikiatrik.	Ajo kërkoi një karrierë si psikiatre.
+effect	2	Dielli doli nga retë.	Gruaja hodhi një vështrim në orën e saj.	Gruaja hoqi xhupin.
+cause	1	Trajnerit të futbollit i ka humbur zëri pas ndeshjes.	Ai bërtiste sa herë që një lojtar gjuante topin.	Ai fishkëllinte sa herë që një lojtar shënonte një goditje.
+effect	2	Gruaja e komplimentoi burrin.	Ai teshtiu.	Ai u skuq.
+effect	2	Ushtrova presion në prerjen e krahut tim.	U shërua.	Ndaloi gjakderdhjen.
+effect	1	Gruaja kishte një infeksion.	Ajo mori antibiotikë.	Ajo lau duart.
+effect	2	Gruaja u thirr për detyrën e jurisë.	Ajo kontaktoi avokatin e saj.	Ajo anuloi takimet e saj.
+cause	2	Gruaja u ftoh me dorën e saj.	Ajo vendosi kondicionerin në dhomë.	Kondicioneri në dhomë u prish.
+cause	2	Mjekët i prenë këmbën pacientit.	Ishte mavijosur keq.	Ishte i infektuar rëndë.
+cause	1	Vajza shikoi veten në pasqyrë.	Ajo ndjehej e vetëdijshme.	Pasqyra ishte e njollosur.
+cause	1	Burri u pickua nga mushkonjat.	Ai shkoi për kamping në pyll.	E zuri gjumi në divanin e tij.
+effect	2	Gruaja i dhuroi vëllait të saj një dhuratë.	Vëllai i saj refuzoi të pranonte dhuratën.	Vëllai i saj e zbërtheu dhuratën.
+effect	2	Administratorja ia pastroi fytin.	Takimi u shty.	Takimi filloi.
+cause	2	Fëmijët vrapuan nëpër spërkatës.	Ata hëngrën kokoshka.	Ata ishin të nxehtë.
+effect	1	Burrit i duheshin monedha për të mbushur matësin e parkimit.	Ai kërkoi nën sediljet e tij të makinës për këmbim të lirë.	Ai u lut njerëzve në rrugë për ndryshim të lirë.
+effect	2	Klienti mendoi se suveniri ishte i mbiçmuar.	Shitësi ia shiti.	Ai bëri pazare me shitësin.
+cause	1	Shkencëtari fitoi njohjen.	Ajo zbuloi një specie të re.	Ajo mori mandatin në universitet.
+effect	1	Makina ndaloi në vendkalimin e këmbësorëve.	Këmbësori ka kaluar rrugën.	Këmbësori priti në trotuar.
+cause	1	Djali qeshi në mënyrë të pakontrolluar.	Vëllai i tij e gudulis.	Vëllai i tij e ka shkelmuar.
+effect	1	Gjunjët e mi u përkulën në shkallë.	E kapa veten në parmakë.	Kangjella u shkëput nga muri.
+cause	2	Shkova ne shtrat.	Ishte një natë e kthjellët.	Ishte vone.
+effect	2	Shoku im po shërohej nga operacioni.	E lashë në spital.	I solla një kartë dhe lule.
+effect	2	DJ ndezi muzikën.	Njerëzit u larguan nga partia.	Njerëzit filluan të kërcejnë.
+cause	2	Roja i sigurisë riprodhoi pamjet e vëzhgimit.	Kamera e vëzhgimit ishte jashtë fokusit.	Ai vuri re disa aktivitete të dyshimta.
+cause	2	Qëndrova në shtrat sapo u zgjova.	isha i uritur.	Ishte e shtunë.
+effect	1	Burri ngriti kutinë e rëndë.	Ai nxori shpinën.	Ai gërvishti shpinën.
+cause	2	Gruas i mungonte çanta.	Ai përmbante shumë mbeturina.	Ajo e la pa mbikëqyrje.
+cause	2	Gruaja pësoi amnezi.	Ajo kishte një reaksion alergjik.	Ajo mori një aksident me makinë.
+effect	1	Më duhej të merrja para.	Shkova në bankë.	Bleva një portofol.
+cause	1	Kalorësi ra në tokë.	Demi e goditi kalorësin.	Demi e ndoqi kalorësin.
+effect	1	Djali donte të ishte muskuloz.	Ai ngriti pesha.	Ai luante lojëra kompjuterike.
+effect	1	Shkencëtari kreu një eksperiment.	Ajo vërtetoi teorinë e saj.	Ajo i sajoi të dhënat e saj.
+cause	2	Qumështi qëndroi i ftohtë.	Ishte e pasterizuar.	E kam ruajtur në frigorifer.
+cause	1	Fëmija bezdisshëm u qetësua.	Prindërit tundnin një zhurmë para foshnjës.	Prindërit zgjodhën një emër për fëmijën.
+effect	1	Vendosa kuba akulli në supën e nxehtë.	Supa u fto.	Supa u bë e trashë.
+cause	1	Vajza e ndau drekën me shoqen e saj.	Shoku i saj harroi të sillte drekën e tij.	Shoku i saj u ul pranë saj në drekë.
+cause	1	Policia mbylli hetimet.	Ata e kanë arrestuar të dyshuarin.	Viktima u shërua.
+effect	1	Shiu u qetësua.	Unë shkova për një shëtitje.	Shfletova internetin.
+effect	1	Filxhani i çajit po përvëlonte nxehtë.	Unë fryva mbi të.	E derdha.
+cause	2	Fotografia u zbeh.	Ishte false.	Ishte e vjetër.
+cause	2	Djali mori një sy të zi.	Ngacmuesi u tall me djalin.	Ngacmuesi e goditi me grusht djalin.
+effect	2	E kam vendosur gabim portofolin.	E mora telefonin tim.	I ktheva hapat e mi.
+effect	1	Gjuetarit i mbaruan municionet.	Ai e mbushi përsëri armën.	Ai synoi drerin.
+cause	2	Jeta detare u pakësua.	Varkat lundruan nëpër oqean.	Nafta u derdh në oqean.
+effect	2	E kalova kubin e akullit nën ujë të ngrohtë.	Kubi i akullit m'u ngjit në gishta.	Kubi i akullit u zhduk.
+cause	2	Klienti hyri në butik.	Ajo e la portofolin në shtëpi.	Ekrani i dritares ra në sy.
+cause	2	Burri piu ujë me vaktin e tij.	Vakti i tij ishte i ftohtë.	Vakti i tij ishte pikant.
+cause	1	Gruaja qëndroi larg vendeve publike.	Ajo ishte ngjitëse.	Ajo ishte e dehur.
+effect	1	Era e kalbur e mbushi dhomën.	E shtrëngova dorën mbi hundë.	Vura dorezat e gomës.
+cause	2	Punonjësi humbi punën.	Familja e saj ra në kontakt me të.	Në familjen e saj pati një vdekje.
+effect	2	Magneti tërhoqi kapësen e letrës.	Kapëse letre ra nga magneti.	Kapëse letre u ngjit në magnet.
+effect	1	Kopshtari i tërhoqi barërat e këqija.	Barërat e këqija dolën nga toka.	Barërat e këqija prodhonin fara.
+effect	1	Ne porositëm një picë.	Pica u dorëzua.	Pica u fto.
+cause	1	Adoleshenti u rrit më i gjatë se babai i tij.	Ai kaloi një rritje të shpejtë.	Ai iu bashkua ekipit të basketbollit.
+cause	2	Pacienti iu nënshtrua një procedure të rrezikshme mjekësore.	Procedura ishte e kushtueshme.	Specialistët rekomanduan procedurën.
+effect	2	Burri e kapi mëngën e këmishës në shkallët e gardhit.	Ai hoqi gardhin.	Mëngën e grisi.
+cause	1	Hetuesit e konsideruan vdekjen e burrit një vetëvrasje.	Ai la një shënim.	Ai kishte fëmijë.
+cause	2	Kompjuteri u rrëzua.	Kam bërë kopje rezervë të skedarëve të mi.	Kam shkarkuar një virus.
+cause	1	Vajzës i dhimbte goja.	Ajo humbi një dhëmb.	Ajo gëlltiti çamçakëzin e saj.
+effect	1	Dhoma ishte e errët.	I hapa blindat.	I lava dritaret.
+cause	2	Babai e futi vajzën e tij në karrocën e saj.	Ajo mësoi të ecë.	Ai ishte i lodhur duke e mbajtur atë.
+cause	1	Spiuni zbuloi vendndodhjen e armikut.	Spiuni ka përgjuar telefonin e armikut.	Spiuni u punësua nga qeveria.
+cause	2	Gotat në tavolinë u derdhën.	Fëmija vizatoi në tryezë.	Fëmija hoqi mbulesën e tavolinës.
+effect	2	Uji në çajnik filloi të vlonte.	Çajniku u fto.	Fishkëlliu çajniku.
+cause	2	Qyteti rizgjodhi kryetarin e bashkisë.	Qyteti shkurtoi buxhetin e tij.	Kryetari i bashkisë i përmbushi premtimet.
+cause	1	Gruaja i ka ekzagjeruar detajet e historisë.	Ajo donte vëmendje.	Ajo u ndje e turpshme.
+effect	2	Gruaja goditi një krizë të moshës së mesme.	Ajo doli në pension.	Ajo shkoi për zhytje në qiell.
+effect	2	Burri mohoi tragjedinë.	E kapërceu lehtë.	Ai nuk pranoi të fliste për të.
+cause	2	Burri u pikëllua.	E shoqja e kritikoi.	Nëna e tij ka ndërruar jetë.
+cause	2	Vajza kishte një fobi nga qentë.	Ajo shpëtoi një qen të braktisur.	Ajo u kafshua nga një qen.
+effect	2	Kam marrë një vendim për të ngrënë një dietë të shëndetshme.	Kam marrë pjesë në një klasë joga.	Bleva fruta dhe perime.
+cause	2	Pacienti shkoi në koma.	Ai pësoi një traumë emocionale.	Ai ka pësuar dëmtime në tru.
+effect	2	Biseda e miqve në darkë u kthye në politikë.	Biseda u qetësua.	Shpërtheu një debat.
+cause	1	Gruaja vuri re shoqen e saj nga përtej dhomës.	Gruaja bëri me dorë.	Gruaja u arratis.
+effect	1	Nëna kishte nevojë për ndihmë për t'u kujdesur për fëmijët e saj.	Ajo i dërgoi fëmijët në çerdhe.	Ajo hoqi dorë nga kujdestaria e fëmijëve.
+cause	1	Shoferi i ra borisë.	Një makinë tjetër u fut në korsinë e saj.	Ajo bëri një kthesë djathtas në dritë.
+effect	2	Burri donte të kursente para.	Ai tërhoqi para nga llogaria e tij e kursimeve.	Ai reduktoi blerjet joserioze.
+cause	1	Kam vënë këpucë.	Dyshemeja kishte xhami të thyer.	Boja në mure ishte e lagur.
+cause	1	Bibliotekarja e gjeti librin në pirgje.	Kërkova ndihmën e bibliotekares.	Libri u kontrollua.
+cause	1	Nëna u bë në nivelin e syve me djalin e saj.	Ajo u ul.	Ajo i mbajti dorën.
+cause	2	I paketova gjërat e mia.	Po kërkoja një apartament të ri.	Po largohesha nga banesa ime.
+cause	1	Djali imitoi vëllain e tij të madh.	Djali ngriti sytë nga vëllai i tij më i madh.	Djali u përlesh me vëllain e tij të madh.
+effect	2	Vajza dëshironte miratimin e prindërve të saj.	Ajo iku nga shtëpia.	Ajo iu bind rregullave të prindërve të saj.
+effect	1	Kamioni ka përplasur motoçikletën në urë.	Motoçiklisti ka ndërruar jetë.	Ura u shemb.
+cause	1	Dyqani me pakicë u mbyll.	Shitjet e tij ishin me vonesë.	Ajo rinovoi qiranë e saj.
+effect	1	Notari fitoi garën.	Ajo mori një medalje të artë.	Skuadra e saj humbi takimin.
+cause	1	Ndotja e ajrit në qytet u përkeqësua.	Fabrikat rritën prodhimin e tyre.	Fabrikat u mbyllën.
+cause	1	Nëna e qortoi vajzën e saj.	Vajza e saj gromiste në tryezën e kuzhinës.	Vajza e saj shtroi tryezën e kuzhinës.
+cause	2	U justifikova nga grupi.	E fika telefonin.	Më ra zilja e telefonit.
+cause	2	Skiatori rrëshqiti në shpat.	Ajo hodhi shtyllat e saj të skive.	Ajo goditi një copë akulli.
+effect	1	Printimi në broshurë ishte i vogël.	Burri vuri syzet.	Burri nxori një stilolaps nga xhepi.
+effect	2	E ktheva çelësin e dritës lart e poshtë.	Drita u shua.	Drita shkrepi.
+effect	2	Ora e burrit ishte thyer.	Ai priti në stacionin e autobusit.	Ai pyeti një të huaj për kohën.
+cause	2	Ushtarët ishin fshehur në furçë.	Ata ishin të armatosur me pushkë.	Ata kishin veshur uniforma kamuflazhi.
